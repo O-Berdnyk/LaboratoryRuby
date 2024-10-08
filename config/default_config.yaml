@@ -1,5 +1,5 @@
 default:
   root_dir: <%= File.expand_path('../', __FILE__) %>
   config_dir: config
-  yaml_dir: config/yaml_config
+  yaml_dir: config/additional_configs
   media_dir: media

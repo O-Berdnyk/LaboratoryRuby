@@ -1,6 +1,6 @@
 logging:
   directory: "logs"
-  level: "DEBUG"   
+  level: "DEBUG"
   files:
     application_log: "application.log"
-    error_log: "error.log" 
+    error_log: "error.log"
