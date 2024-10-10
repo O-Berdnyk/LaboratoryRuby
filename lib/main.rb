@@ -22,9 +22,27 @@ config_loader.pretty_print_config_data
 logging_config = config_loader.load_logging_config('config/additional_configs/logging_config.yaml')
 
 # Ініціалізуємо логер
-MyApplicationBerdnyk::LoggerManager.initialize_logger(logging_config)
+# MyApplicationBerdnyk::LoggerManager.initialize_logger(logging_config)
 
-itemCollection = MyApplicationBerdnyk::ItemCollection.new
-itemCollection.generate_test_items(5) # Генеруємо 5 тестових товарів
-itemCollection.save_to_json('output/data.json')
-itemCollection.show_all_items
+# itemCollection = MyApplicationBerdnyk::ItemCollection.new
+# itemCollection.generate_test_items(5) # Генеруємо 5 тестових товарів
+# itemCollection.save_to_json('output/data.json')
+# itemCollection.show_all_items
+
+configurator = MyApplicationBerdnyk::Configurator.new
+
+# Налаштування конфігураційних параметрів
+configurator.configure(
+  run_website_parser: 1,      # Включити розбір сайту
+  run_save_to_csv: 1,          # Включити збереження даних в CSV
+  run_save_to_yaml: 1,        # Включити збереження даних в YAML
+  run_save_to_sqlite: 1,      # Включити збереження даних в базі даних SQLite
+  invalid_key: 1               # Невірний параметр
+)
+
+# Вивід поточних конфігураційних параметрів
+puts configurator.config
+
+# Вивід доступних конфігураційних ключів
+puts MyApplicationBerdnyk::Configurator.available_methods
+
