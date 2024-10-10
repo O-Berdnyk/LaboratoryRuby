@@ -1,5 +1,6 @@
 require_relative 'config'
 require_relative 'logger'
+require_relative 'item'
 
 # Ініціалізація екземпляра AppConfigLoader
 config_loader = AppConfigLoader.new
@@ -22,7 +23,24 @@ logging_config = config_loader.load_logging_config('config/additional_configs/lo
 # Ініціалізуємо логер
 MyApplicationBerdnyk::LoggerManager.initialize_logger(logging_config)
 
-# Логування подій
-MyApplicationBerdnyk::LoggerManager.log_processed_file('example.txt')
-MyApplicationBerdnyk::LoggerManager.log_error('An error occurred')
+# Приклад створення об'єкта Item
+item = MyApplicationBerdnyk::Item.new(name: "Книга 1", price: 150) do |i|
+  i.description = "Опис Книги 1"
+  i.category = "Категорія 1"
+end
+
+puts item.info
+
+# Оновлення об'єкта через блок
+item.update do |i|
+  i.name = "Книга 2"
+  i.price = 100
+end
+
+puts item.info
+
+# Генерація фіктивного товару
+fake_item = MyApplicationBerdnyk::Item.generate_fake
+puts fake_item.info
+
 
