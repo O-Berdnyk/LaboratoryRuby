@@ -2,11 +2,17 @@ web_scraping:
   # URL початкової сторінки для збору даних
   start_page: https://www.yakaboo.ua/ua/knigi/business-money-economy.html
   
+  # CSS селектор для отримання посилання на сторінку продукту
+  product_card_selector: ".category-card__name"
+
   # CSS селектор для отримання назв продуктів
-  product_name_selector: ".category-card__name"
-  
+  product_name_selector: "#product-title"
+
+  # CSS селектор для отримання назв продуктів
+  product_category_selector: ".breadcrumbs__list-item_link"
+
   # CSS селектор для отримання цін продуктів
-  product_price_selector: ".product-price"
+  product_price_selector: "#product-price"
   
   # CSS селектор для отримання опису продуктів
   product_description_selector: ".description__content"

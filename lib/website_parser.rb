@@ -5,6 +5,7 @@ require 'erb'
 require 'fileutils'
 require 'concurrent-ruby'
 require 'uri'
+require 'securerandom'
 
 module MyApplicationBerdnyk
   class SimpleWebsiteParser
@@ -13,7 +14,7 @@ module MyApplicationBerdnyk
     def initialize(config)
       @config = config
       @agent = Mechanize.new
-      @item_collection = []
+      @item_collection = ItemCollection.new
     end
 
     def start_parse
@@ -31,9 +32,11 @@ module MyApplicationBerdnyk
             parse_product_page(link)
           end
         end
-
+        
         # Очікуємо завершення всіх потоків
         threads.each(&:wait!)
+
+        @item_collection.save_to_json("output/products.json");
       else
         LoggerManager.logger.error("Unable to access start page: #{@config['web_scraping']['start_page']}")
       end
@@ -41,7 +44,7 @@ module MyApplicationBerdnyk
 
     def extract_products_links(page)
       links = []
-      page.css(@config['web_scraping']['product_name_selector']).each do |product|
+      page.css(@config['web_scraping']['product_card_selector']).each do |product|
         relative_link = product['href']
         # Додаємо базову URL-адресу до відносного шляху
         full_url = URI.join(@config['web_scraping']['start_page'], relative_link).to_s
@@ -57,16 +60,18 @@ module MyApplicationBerdnyk
         parsed_product = Nokogiri::HTML(product_page.body)
 
         product_name = extract_product_name(parsed_product)
+        product_category = extract_category_image(parsed_product)
         product_price = extract_product_price(parsed_product)
         product_description = extract_product_description(parsed_product)
         product_image = extract_product_image(parsed_product)
 
+        product_image_name = SecureRandom.uuid
         # Зберігаємо дані про продукт в item_collection
-        item = Item.new(name: product_name, price: product_price, description: product_description, image: product_image)
-        @item_collection << item
+        item = Item.new(name: product_name, category:product_category, price: product_price, description: product_description, image_path: "media_dir/products/"+product_image_name )
+        @item_collection.add_item(item)
 
         # Збереження зображення
-        save_product_image(product_image, product_name)
+        save_product_image(product_image, product_image_name)
       else
         LoggerManager.logger.error("Product page not accessible: #{product_link}")
       end
@@ -74,6 +79,10 @@ module MyApplicationBerdnyk
 
     def extract_product_name(product)
       product.css(@config['web_scraping']['product_name_selector']).text.strip
+    end
+
+    def extract_category_image(product)
+      product.css(@config['web_scraping']['product_category_selector'])[1].text.strip
     end
 
     def extract_product_price(product)
