@@ -1,5 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'nokogiri'
 gem 'httparty'
+gem 'mechanize'
 gem 'faker'

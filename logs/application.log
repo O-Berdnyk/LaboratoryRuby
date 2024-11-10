@@ -1,0 +1,1616 @@
+I, [2024-11-10T14:33:19.563759 #15700]  INFO -- : Processed file: ItemCollection initialized
+I, [2024-11-10T14:33:19.967367 #15700]  INFO -- : Starting parsing from https://www.yakaboo.ua/ua/knigi/business-money-economy.html
+I, [2024-11-10T14:33:20.239177 #15700]  INFO -- : Found 50 product links to process.
+I, [2024-11-10T14:33:20.596005 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment.html
+I, [2024-11-10T14:33:20.610380 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ce-marketing.html
+I, [2024-11-10T14:33:20.612776 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/sadoterapija-jak-pozbutisja-bur-janiv-u-golovi.html
+I, [2024-11-10T14:33:20.628091 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-1606035.html
+I, [2024-11-10T14:33:20.628455 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/instinkt-pereproshivka-dlja-mozku-jaka-pidvischit-vashu-produktivnist.html
+I, [2024-11-10T14:33:20.645590 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-emocijnij-intelekt-komplekt-z-2-knig.html
+I, [2024-11-10T14:33:20.648287 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ofis-buddi-davne-mistectvo-probuddzhennja-cherez-sumlinnu-robotu.html
+I, [2024-11-10T14:33:20.674435 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/empatija-v-biznesi-cinnist-spivperezhivannja-jak-dvigun-uspihu.html
+I, [2024-11-10T14:33:20.675238 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/priborkati-strah-dosvid-mors-kogo-kotika.html
+I, [2024-11-10T14:33:20.686454 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-zdobuvati-druziv-i-vplivati-na-ljudej-3057818.html
+I, [2024-11-10T14:33:20.752848 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rework-cja-kniga-pereverne-vash-pogljad-na-biznes.html
+I, [2024-11-10T14:33:20.871775 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-rozmovljati-bud-z-kim-bud-koli-i-bud-de.html
+I, [2024-11-10T14:33:20.872005 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/marketingovi-vijni.html
+I, [2024-11-10T14:33:20.904913 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-meta-proces-bezperervnogo-vdoskonalennja-nova-obkl-elijagu-goldratt-dzheff-koks.html
+I, [2024-11-10T14:33:20.907143 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psihologija-vplivu-onovleno-ta-dopovneno-2351481.html
+I, [2024-11-10T14:33:20.936084 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/reputacijnij-antistres-instruktor-dlja-vlasnikiv-i-top-menedzheriv-biznesu.html
+I, [2024-11-10T14:33:20.938407 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/48-zakoniv-vladi-1788522.html
+I, [2024-11-10T14:33:20.941348 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-brendona-vebba-komplekt-iz-2-knig.html
+I, [2024-11-10T14:33:20.941626 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mistectvo-govoriti-taemnici-efektivnogo-spilkuvannja.html
+I, [2024-11-10T14:33:20.943741 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/esencializm-mictectvo-viznachati-ppiopiteti.html
+I, [2024-11-10T14:33:20.953617 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bodo-shefer-komplekt-iz-2-knig.html
+I, [2024-11-10T14:33:20.955823 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ekonomika-z-dvoma-iksami-grandioznij-potencial-zhinochoi-nezalezhnosti.html
+I, [2024-11-10T14:33:20.959512 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/vitrimati-vse-rozum-tilo-ta-navdivovizhu-gnuchki-mezhi-ljuds-koi-vitrivalosti.html
+I, [2024-11-10T14:33:20.960594 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bezkontrol-ni-scho-treba-znati-pro-biznes-procesi.html
+I, [2024-11-10T14:33:20.962071 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/hucpa-chomu-izrail-stav-svitovim-centrom-innovacij-ta-pidpriemnictva.html
+I, [2024-11-10T14:33:20.963559 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ljubov-ta-bjudzhet-domashni-finansi-dlja-simejnih-par-na-shljahu-do-finansovoi-svobodi-onovlene-vidannja.html
+I, [2024-11-10T14:33:20.964474 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-jdit-na-kompromis-tehnika-efektivnih-peregovoriv.html
+I, [2024-11-10T14:33:20.965369 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pricil-jak-prijmati-kraschi-rishennja-koli-ves-svit-proti-tebe.html
+I, [2024-11-10T14:33:20.971855 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-majstri-masshtabuvannja-neochevidni-istini-vid-najuspishnishih-pidpriemciv-svitu-rid-gofman-dzhu.html
+I, [2024-11-10T14:33:20.973869 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/peremovini-bez-porazki-garvards-kij-metod.html
+I, [2024-11-10T14:33:20.977899 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-izhte-naodinci-ta-inshi-sekreti-uspihu-zavdjaki-shirokomu.html
+I, [2024-11-10T14:33:20.979969 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zkonomika-jak-pokolinnja-z-zminjue-majbutne-biznesu.html
+I, [2024-11-10T14:33:20.981112 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/superhabi-jak-finansovi-eliti-ta-ihni-merezhi-kerujut-svitom.html
+I, [2024-11-10T14:33:20.981450 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment-1580096.html
+I, [2024-11-10T14:33:20.983448 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/curly-menedzhment-jak-upravljati-proektami-ne-zradzhujuchi-sebe.html
+I, [2024-11-10T14:33:20.981648 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-spilkuvatisja-z-psihami.html
+I, [2024-11-10T14:33:20.985284 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/lean-ux-stvorennja-klasnih-produktiv-iz-komandami-agile.html
+I, [2024-11-10T14:33:20.986794 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/antikrihkist-pro-ne-vrazlive-u-real-nomu-zhitti-2254555.html
+I, [2024-11-10T14:33:20.987591 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/schastja-z-dostavkoju-kljuch-do-pributku-nathnennja-j-meti.html
+I, [2024-11-10T14:33:21.005530 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pravila-investuvannja-vorrena-baffeta-jak-zberigati-ta-primnozhuvati-kapital.html
+I, [2024-11-10T14:33:21.031307 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bereschak-viktorija-komunikacijna-strategija-v-biznesi-jak-dosjagti-maksimumu-v-spilkuvanni-z-auditorieju.html
+I, [2024-11-10T14:33:21.031978 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mif-dosvidu-chomu-mi-zasvojuemo-hibni-uroki-i-jak-ce-vipraviti.html
+I, [2024-11-10T14:33:21.037576 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/podumaj-znovu-sila-rozuminnja-vlasnogo-neznannja.html
+I, [2024-11-10T14:33:21.037784 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zakoni-peremozhciv-jak-zdijsniti-cvoi-mrii.html
+I, [2024-11-10T14:33:21.052629 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/anna-biografija.html
+I, [2024-11-10T14:33:21.114569 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/emocijnij-intelekt-u-biznesi-jak-stati-uspishnim-u-zhitti-ta-kar-eri.html
+I, [2024-11-10T14:33:21.116804 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rozumnij-investor-strategija-vartisnogo-investuvannja.html
+I, [2024-11-10T14:33:21.119351 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-ljubomira-ostapiva.html
+I, [2024-11-10T14:33:21.120956 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-2217783.html
+I, [2024-11-10T14:33:21.119636 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psyhologija-vplyvu.html
+I, [2024-11-10T14:33:21.242049 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:33:21.244849 #15700]  INFO -- : Processed file: Added item: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:33:21.286216 #15700]  INFO -- : Processed file: Item initialized: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:33:21.287959 #15700]  INFO -- : Processed file: Added item: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:33:21.330182 #15700]  INFO -- : Processed file: Item initialized: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:33:21.342479 #15700]  INFO -- : Processed file: Added item: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:33:21.405774 #15700]  INFO -- : Processed file: Item initialized: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:33:21.409332 #15700]  INFO -- : Processed file: Added item: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:33:21.443624 #15700]  INFO -- : Processed file: Item initialized: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:33:21.448298 #15700]  INFO -- : Processed file: Added item: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:33:21.487990 #15700]  INFO -- : Processed file: Item initialized: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:33:21.490499 #15700]  INFO -- : Processed file: Added item: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:33:21.529862 #15700]  INFO -- : Processed file: Item initialized: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:33:21.552170 #15700]  INFO -- : Processed file: Added item: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:33:21.587963 #15700]  INFO -- : Processed file: Item initialized: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:33:21.595449 #15700]  INFO -- : Processed file: Added item: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:33:21.656319 #15700]  INFO -- : Processed file: Item initialized: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:21.659333 #15700]  INFO -- : Processed file: Added item: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:21.692967 #15700]  INFO -- : Processed file: Item initialized: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:33:21.705462 #15700]  INFO -- : Processed file: Added item: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:33:21.750486 #15700]  INFO -- : Saved product image: media_dir/products/1a701c4e-11e7-4957-a0dc-c5e4bdd789a0.jpg
+I, [2024-11-10T14:33:21.743534 #15700]  INFO -- : Processed file: Item initialized: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:33:21.766015 #15700]  INFO -- : Processed file: Added item: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:33:21.829214 #15700]  INFO -- : Processed file: Item initialized: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:33:21.837031 #15700]  INFO -- : Processed file: Added item: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:33:21.885401 #15700]  INFO -- : Processed file: Item initialized: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:33:21.892556 #15700]  INFO -- : Processed file: Added item: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:33:21.893614 #15700]  INFO -- : Saved product image: media_dir/products/bbe06cca-8628-4f73-9e31-44267a40e1ac.jpg
+I, [2024-11-10T14:33:21.893961 #15700]  INFO -- : Saved product image: media_dir/products/5cdf8a62-b4c0-4517-8e18-03cc840d04e0.jpg
+I, [2024-11-10T14:33:21.949522 #15700]  INFO -- : Saved product image: media_dir/products/755e863d-bbc7-4b76-a53a-de846c96abce.jpg
+I, [2024-11-10T14:33:21.894784 #15700]  INFO -- : Saved product image: media_dir/products/a85afbf5-3ecd-4aff-958d-071f0f906dfb.jpg
+I, [2024-11-10T14:33:21.933250 #15700]  INFO -- : Processed file: Item initialized: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:33:21.996529 #15700]  INFO -- : Processed file: Added item: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:33:21.939746 #15700]  INFO -- : Saved product image: media_dir/products/8c763406-5cdf-42a2-a091-3c330079424f.jpg
+I, [2024-11-10T14:33:21.995916 #15700]  INFO -- : Processed file: Item initialized: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:33:22.010891 #15700]  INFO -- : Processed file: Added item: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:33:21.998175 #15700]  INFO -- : Saved product image: media_dir/products/525cacb8-186c-43e0-bf1d-8ba6c93d44a7.jpg
+I, [2024-11-10T14:33:21.894264 #15700]  INFO -- : Saved product image: media_dir/products/61754da0-99fd-4ce3-be2a-89f1761de210.jpg
+I, [2024-11-10T14:33:22.033071 #15700]  INFO -- : Saved product image: media_dir/products/2028b06a-6479-4cdf-8c50-f64a4889e64d.jpg
+I, [2024-11-10T14:33:22.047837 #15700]  INFO -- : Saved product image: media_dir/products/37107620-e337-489a-bfe9-b1c1618ea107.jpg
+I, [2024-11-10T14:33:22.068714 #15700]  INFO -- : Saved product image: media_dir/products/aa885289-d094-4b79-a15d-3695f4a60949.jpg
+I, [2024-11-10T14:33:22.115948 #15700]  INFO -- : Processed file: Item initialized: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:33:22.122561 #15700]  INFO -- : Processed file: Added item: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:33:22.176332 #15700]  INFO -- : Processed file: Item initialized: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:33:22.272067 #15700]  INFO -- : Processed file: Item initialized: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:33:22.275714 #15700]  INFO -- : Processed file: Added item: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:33:22.222165 #15700]  INFO -- : Processed file: Item initialized: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:33:22.328502 #15700]  INFO -- : Processed file: Added item: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:33:22.331102 #15700]  INFO -- : Saved product image: media_dir/products/5b98791c-3405-4b03-8733-87811f7f0873.jpg
+I, [2024-11-10T14:33:22.325375 #15700]  INFO -- : Saved product image: media_dir/products/c2aabfef-90f9-42c5-8e90-847e50434b98.jpg
+I, [2024-11-10T14:33:22.328724 #15700]  INFO -- : Saved product image: media_dir/products/183904cd-47a1-40d3-aa2d-0548fd80cd41.jpg
+I, [2024-11-10T14:33:22.483404 #15700]  INFO -- : Processed file: Item initialized: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:33:22.555215 #15700]  INFO -- : Processed file: Item initialized: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:33:22.593821 #15700]  INFO -- : Processed file: Added item: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:33:22.323357 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:33:22.597205 #15700]  INFO -- : Processed file: Added item: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:33:22.410461 #15700]  INFO -- : Processed file: Item initialized: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:33:22.635531 #15700]  INFO -- : Processed file: Added item: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:33:22.331328 #15700]  INFO -- : Saved product image: media_dir/products/310049af-f862-4934-9a40-4ff3f4924c06.jpg
+I, [2024-11-10T14:33:22.555774 #15700]  INFO -- : Processed file: Added item: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:33:22.274389 #15700]  INFO -- : Processed file: Added item: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:33:22.593276 #15700]  INFO -- : Processed file: Item initialized: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:33:22.930388 #15700]  INFO -- : Processed file: Added item: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:33:22.596349 #15700]  INFO -- : Saved product image: media_dir/products/5d68a8b7-e109-483f-b6cb-fecabe9f06a7.jpg
+I, [2024-11-10T14:33:22.373116 #15700]  INFO -- : Processed file: Item initialized: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:33:22.965464 #15700]  INFO -- : Processed file: Added item: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:33:22.632383 #15700]  INFO -- : Processed file: Item initialized: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:33:23.086422 #15700]  INFO -- : Processed file: Item initialized: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:33:23.094252 #15700]  INFO -- : Processed file: Added item: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:33:22.678582 #15700]  INFO -- : Saved product image: media_dir/products/db7ac035-9bb5-4cc1-a2dc-fb32f0c35c8a.jpg
+I, [2024-11-10T14:33:23.096570 #15700]  INFO -- : Saved product image: media_dir/products/4ee85417-7f09-4931-ab2d-fe34273d5ced.jpg
+I, [2024-11-10T14:33:22.749882 #15700]  INFO -- : Processed file: Item initialized: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:33:23.144757 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:23.184506 #15700]  INFO -- : Processed file: Added item: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:22.852207 #15700]  INFO -- : Processed file: Item initialized: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:33:23.289719 #15700]  INFO -- : Processed file: Added item: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:33:22.929036 #15700]  INFO -- : Saved product image: media_dir/products/d02f30f2-e97a-481d-8580-791a24db8f15.jpg
+I, [2024-11-10T14:33:23.365025 #15700]  INFO -- : Saved product image: media_dir/products/4c4db22e-c766-4887-a9b4-fed5361e90fd.jpg
+I, [2024-11-10T14:33:22.446963 #15700]  INFO -- : Processed file: Item initialized: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:33:23.366547 #15700]  INFO -- : Processed file: Added item: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:33:22.999745 #15700]  INFO -- : Processed file: Item initialized: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:33:23.367668 #15700]  INFO -- : Processed file: Added item: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:33:23.086634 #15700]  INFO -- : Processed file: Added item: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:33:22.675082 #15700]  INFO -- : Processed file: Item initialized: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:33:23.481255 #15700]  INFO -- : Processed file: Added item: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:33:23.089246 #15700]  INFO -- : Saved product image: media_dir/products/1a0fca0c-6608-41fa-be02-0e032754e81b.jpg
+I, [2024-11-10T14:33:23.096289 #15700]  INFO -- : Saved product image: media_dir/products/29bbb511-d8cc-4e9f-a81f-683d26fb110d.jpg
+I, [2024-11-10T14:33:22.781806 #15700]  INFO -- : Processed file: Item initialized: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:33:23.483798 #15700]  INFO -- : Processed file: Added item: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:33:23.145214 #15700]  INFO -- : Processed file: Added item: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:33:23.179094 #15700]  INFO -- : Processed file: Item initialized: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:33:23.484384 #15700]  INFO -- : Processed file: Added item: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:33:22.887138 #15700]  INFO -- : Processed file: Item initialized: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:33:23.485497 #15700]  INFO -- : Processed file: Added item: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:33:23.252044 #15700]  INFO -- : Processed file: Item initialized: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:33:23.486427 #15700]  INFO -- : Processed file: Added item: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:33:22.927341 #15700]  INFO -- : Processed file: Item initialized: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:33:23.487159 #15700]  INFO -- : Processed file: Added item: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:33:23.363659 #15700]  INFO -- : Processed file: Item initialized: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:33:23.487963 #15700]  INFO -- : Processed file: Added item: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:33:23.365165 #15700]  INFO -- : Saved product image: media_dir/products/6eefe917-a5d0-407a-93d0-581b95e6d683.jpg
+I, [2024-11-10T14:33:22.965113 #15700]  INFO -- : Processed file: Item initialized: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:33:23.488944 #15700]  INFO -- : Processed file: Added item: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:33:23.035710 #15700]  INFO -- : Processed file: Item initialized: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:33:23.489725 #15700]  INFO -- : Processed file: Added item: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:33:23.480299 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:33:23.490051 #15700]  INFO -- : Processed file: Added item: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:33:22.716423 #15700]  INFO -- : Processed file: Item initialized: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:33:23.497225 #15700]  INFO -- : Processed file: Added item: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:33:22.812624 #15700]  INFO -- : Processed file: Item initialized: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:33:23.498240 #15700]  INFO -- : Processed file: Added item: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:33:23.289467 #15700]  INFO -- : Processed file: Item initialized: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:33:23.499759 #15700]  INFO -- : Processed file: Added item: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:33:23.363793 #15700]  INFO -- : Saved product image: media_dir/products/e109f53a-4af9-40b4-9c55-e07a5874e5ba.jpg
+I, [2024-11-10T14:33:22.515324 #15700]  INFO -- : Processed file: Item initialized: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:33:23.500976 #15700]  INFO -- : Processed file: Added item: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:33:23.443265 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:33:23.501514 #15700]  INFO -- : Processed file: Added item: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:33:23.484108 #15700]  INFO -- : Saved product image: media_dir/products/bbbd5166-218f-4687-8a09-d516cee04bdf.jpg
+I, [2024-11-10T14:33:23.220850 #15700]  INFO -- : Processed file: Item initialized: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:33:23.502584 #15700]  INFO -- : Processed file: Added item: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:33:23.406281 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:33:23.503225 #15700]  INFO -- : Processed file: Added item: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:33:23.328667 #15700]  INFO -- : Processed file: Item initialized: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:33:23.504068 #15700]  INFO -- : Processed file: Added item: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:33:23.481466 #15700]  INFO -- : Saved product image: media_dir/products/10e854f2-a549-4635-abf4-07feeb4679a9.jpg
+I, [2024-11-10T14:33:23.524165 #15700]  INFO -- : Saved product image: media_dir/products/a494ec52-bfa7-4295-a9ae-be54b805828c.jpg
+I, [2024-11-10T14:33:23.613616 #15700]  INFO -- : Saved product image: media_dir/products/25ba5653-60e5-4a75-acb1-0285c970ce4f.jpg
+I, [2024-11-10T14:33:23.613853 #15700]  INFO -- : Saved product image: media_dir/products/6076ca79-ae13-4949-ab5d-ae5e5cb4d909.jpg
+I, [2024-11-10T14:33:23.660620 #15700]  INFO -- : Saved product image: media_dir/products/b3eee87f-6a0f-40c3-93fd-a0f3d769f690.jpg
+I, [2024-11-10T14:33:23.688346 #15700]  INFO -- : Saved product image: media_dir/products/a2a1fb87-9d09-4db9-b610-0632b26ff66d.jpg
+I, [2024-11-10T14:33:23.750111 #15700]  INFO -- : Saved product image: media_dir/products/7e880b05-4e47-496f-aa76-18e70d7c52ad.jpg
+I, [2024-11-10T14:33:23.766347 #15700]  INFO -- : Saved product image: media_dir/products/b626fc6c-6ba5-43c0-837f-9146ad7fbe34.jpg
+I, [2024-11-10T14:33:23.784313 #15700]  INFO -- : Saved product image: media_dir/products/3d08eaef-4518-4062-b2bf-d310e880a9b4.jpg
+I, [2024-11-10T14:33:23.801613 #15700]  INFO -- : Saved product image: media_dir/products/1577dba0-8193-4599-a711-cdb55ee45d61.jpg
+I, [2024-11-10T14:33:23.864944 #15700]  INFO -- : Saved product image: media_dir/products/c69656e4-3479-4f86-a215-743f278bbdbc.jpg
+I, [2024-11-10T14:33:23.865151 #15700]  INFO -- : Saved product image: media_dir/products/418e9f44-87e5-4069-8f06-fe1a558aa539.jpg
+I, [2024-11-10T14:33:23.865288 #15700]  INFO -- : Saved product image: media_dir/products/c55ab48c-ecc5-423e-b71e-0bde00bf6350.jpg
+I, [2024-11-10T14:33:23.955356 #15700]  INFO -- : Saved product image: media_dir/products/c8b1db58-816b-4089-bcb9-0f9483e7eb3e.jpg
+I, [2024-11-10T14:33:23.955560 #15700]  INFO -- : Saved product image: media_dir/products/c0f919a3-6f7e-4331-9e45-af61cdd68b54.jpg
+I, [2024-11-10T14:33:23.972103 #15700]  INFO -- : Saved product image: media_dir/products/e13dabb7-ece6-4433-b974-7acadcd80d09.jpg
+I, [2024-11-10T14:33:23.972220 #15700]  INFO -- : Saved product image: media_dir/products/e6298cf1-4253-4f2d-b124-baba997e23b1.jpg
+I, [2024-11-10T14:33:23.990707 #15700]  INFO -- : Saved product image: media_dir/products/a1b222a2-4756-4a07-a2cb-0e3efb4c6ed3.jpg
+I, [2024-11-10T14:33:24.010692 #15700]  INFO -- : Saved product image: media_dir/products/b83c4b0e-2916-4e82-b083-100c0dd31217.jpg
+I, [2024-11-10T14:33:24.037520 #15700]  INFO -- : Saved product image: media_dir/products/20ac39f8-49b6-4510-8f2c-5443c051e154.jpg
+I, [2024-11-10T14:33:24.037700 #15700]  INFO -- : Saved product image: media_dir/products/d585e1de-5c3e-4259-a442-1f0ce0b63040.jpg
+I, [2024-11-10T14:33:24.103678 #15700]  INFO -- : Saved product image: media_dir/products/1f010a32-6d1f-447d-865b-66b745f8da55.jpg
+I, [2024-11-10T14:33:24.103952 #15700]  INFO -- : Saved product image: media_dir/products/d0c6c763-1ef1-4c02-95f0-9e911e3f56b1.jpg
+I, [2024-11-10T14:33:24.104910 #15700]  INFO -- : Saved product image: media_dir/products/012405f8-7b1e-4bef-b580-43567b6e5c86.jpg
+I, [2024-11-10T14:33:24.168599 #15700]  INFO -- : Saved product image: media_dir/products/5cc21ec7-9f5c-450e-97a9-a98cc1f63071.jpg
+I, [2024-11-10T14:33:24.171841 #15700]  INFO -- : Processed file: Saved items to JSON: output/products.json
+I, [2024-11-10T14:33:24.174869 #15700]  INFO -- : Processed file: ItemCollection initialized
+I, [2024-11-10T14:33:24.398815 #15700]  INFO -- : Starting parsing from https://www.yakaboo.ua/ua/knigi/business-money-economy.html
+I, [2024-11-10T14:33:24.763316 #15700]  INFO -- : Found 50 product links to process.
+I, [2024-11-10T14:33:25.100355 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ekonomika-z-dvoma-iksami-grandioznij-potencial-zhinochoi-nezalezhnosti.html
+I, [2024-11-10T14:33:25.103946 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zakoni-peremozhciv-jak-zdijsniti-cvoi-mrii.html
+I, [2024-11-10T14:33:25.106163 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment.html
+I, [2024-11-10T14:33:25.106601 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/sadoterapija-jak-pozbutisja-bur-janiv-u-golovi.html
+I, [2024-11-10T14:33:25.108590 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/48-zakoniv-vladi-1788522.html
+I, [2024-11-10T14:33:25.134867 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/schastja-z-dostavkoju-kljuch-do-pributku-nathnennja-j-meti.html
+I, [2024-11-10T14:33:25.135487 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/curly-menedzhment-jak-upravljati-proektami-ne-zradzhujuchi-sebe.html
+I, [2024-11-10T14:33:25.139627 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-meta-proces-bezperervnogo-vdoskonalennja-nova-obkl-elijagu-goldratt-dzheff-koks.html
+I, [2024-11-10T14:33:25.236962 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ce-marketing.html
+I, [2024-11-10T14:33:25.238321 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bodo-shefer-komplekt-iz-2-knig.html
+I, [2024-11-10T14:33:25.241790 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rework-cja-kniga-pereverne-vash-pogljad-na-biznes.html
+I, [2024-11-10T14:33:25.320043 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-izhte-naodinci-ta-inshi-sekreti-uspihu-zavdjaki-shirokomu.html
+I, [2024-11-10T14:33:25.323100 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-majstri-masshtabuvannja-neochevidni-istini-vid-najuspishnishih-pidpriemciv-svitu-rid-gofman-dzhu.html
+I, [2024-11-10T14:33:25.363550 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bezkontrol-ni-scho-treba-znati-pro-biznes-procesi.html
+I, [2024-11-10T14:33:25.373549 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psihologija-vplivu-onovleno-ta-dopovneno-2351481.html
+I, [2024-11-10T14:33:25.496125 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/peremovini-bez-porazki-garvards-kij-metod.html
+I, [2024-11-10T14:33:25.499096 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pravila-investuvannja-vorrena-baffeta-jak-zberigati-ta-primnozhuvati-kapital.html
+I, [2024-11-10T14:33:25.501702 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-zdobuvati-druziv-i-vplivati-na-ljudej-3057818.html
+I, [2024-11-10T14:33:25.502962 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-emocijnij-intelekt-komplekt-z-2-knig.html
+I, [2024-11-10T14:33:25.500861 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bereschak-viktorija-komunikacijna-strategija-v-biznesi-jak-dosjagti-maksimumu-v-spilkuvanni-z-auditorieju.html
+I, [2024-11-10T14:33:25.523614 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-ljubomira-ostapiva.html
+I, [2024-11-10T14:33:25.526440 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/anna-biografija.html
+I, [2024-11-10T14:33:25.506699 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/podumaj-znovu-sila-rozuminnja-vlasnogo-neznannja.html
+I, [2024-11-10T14:33:25.531666 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/instinkt-pereproshivka-dlja-mozku-jaka-pidvischit-vashu-produktivnist.html
+I, [2024-11-10T14:33:25.534864 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rozumnij-investor-strategija-vartisnogo-investuvannja.html
+I, [2024-11-10T14:33:25.505957 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mif-dosvidu-chomu-mi-zasvojuemo-hibni-uroki-i-jak-ce-vipraviti.html
+I, [2024-11-10T14:33:25.567126 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/priborkati-strah-dosvid-mors-kogo-kotika.html
+I, [2024-11-10T14:33:25.570195 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ljubov-ta-bjudzhet-domashni-finansi-dlja-simejnih-par-na-shljahu-do-finansovoi-svobodi-onovlene-vidannja.html
+I, [2024-11-10T14:33:25.572365 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/vitrimati-vse-rozum-tilo-ta-navdivovizhu-gnuchki-mezhi-ljuds-koi-vitrivalosti.html
+I, [2024-11-10T14:33:25.532397 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/antikrihkist-pro-ne-vrazlive-u-real-nomu-zhitti-2254555.html
+I, [2024-11-10T14:33:25.524826 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-brendona-vebba-komplekt-iz-2-knig.html
+I, [2024-11-10T14:33:25.535997 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-1606035.html
+I, [2024-11-10T14:33:25.555933 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/emocijnij-intelekt-u-biznesi-jak-stati-uspishnim-u-zhitti-ta-kar-eri.html
+I, [2024-11-10T14:33:25.556196 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/empatija-v-biznesi-cinnist-spivperezhivannja-jak-dvigun-uspihu.html
+I, [2024-11-10T14:33:25.563863 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mistectvo-govoriti-taemnici-efektivnogo-spilkuvannja.html
+I, [2024-11-10T14:33:25.565598 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-2217783.html
+I, [2024-11-10T14:33:25.565961 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-rozmovljati-bud-z-kim-bud-koli-i-bud-de.html
+I, [2024-11-10T14:33:25.566454 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/marketingovi-vijni.html
+I, [2024-11-10T14:33:25.570535 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/superhabi-jak-finansovi-eliti-ta-ihni-merezhi-kerujut-svitom.html
+I, [2024-11-10T14:33:25.570725 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pricil-jak-prijmati-kraschi-rishennja-koli-ves-svit-proti-tebe.html
+I, [2024-11-10T14:33:25.570994 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-jdit-na-kompromis-tehnika-efektivnih-peregovoriv.html
+I, [2024-11-10T14:33:25.507253 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/lean-ux-stvorennja-klasnih-produktiv-iz-komandami-agile.html
+I, [2024-11-10T14:33:25.571271 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-spilkuvatisja-z-psihami.html
+I, [2024-11-10T14:33:25.532136 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/reputacijnij-antistres-instruktor-dlja-vlasnikiv-i-top-menedzheriv-biznesu.html
+I, [2024-11-10T14:33:25.573815 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment-1580096.html
+I, [2024-11-10T14:33:25.574095 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ofis-buddi-davne-mistectvo-probuddzhennja-cherez-sumlinnu-robotu.html
+I, [2024-11-10T14:33:25.530822 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/hucpa-chomu-izrail-stav-svitovim-centrom-innovacij-ta-pidpriemnictva.html
+I, [2024-11-10T14:33:25.603075 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zkonomika-jak-pokolinnja-z-zminjue-majbutne-biznesu.html
+I, [2024-11-10T14:33:25.605714 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/esencializm-mictectvo-viznachati-ppiopiteti.html
+I, [2024-11-10T14:33:25.620291 #15700]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psyhologija-vplyvu.html
+I, [2024-11-10T14:33:25.706773 #15700]  INFO -- : Processed file: Item initialized: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:33:25.718101 #15700]  INFO -- : Processed file: Added item: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:33:25.776834 #15700]  INFO -- : Processed file: Item initialized: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:33:25.808650 #15700]  INFO -- : Processed file: Added item: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:33:25.898562 #15700]  INFO -- : Processed file: Item initialized: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:33:25.902432 #15700]  INFO -- : Processed file: Added item: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:33:25.950514 #15700]  INFO -- : Processed file: Item initialized: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:25.958371 #15700]  INFO -- : Processed file: Added item: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:26.065773 #15700]  INFO -- : Processed file: Item initialized: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:33:26.069016 #15700]  INFO -- : Processed file: Added item: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:33:26.108564 #15700]  INFO -- : Processed file: Item initialized: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:33:26.113019 #15700]  INFO -- : Processed file: Added item: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:33:26.154454 #15700]  INFO -- : Processed file: Item initialized: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:33:26.162323 #15700]  INFO -- : Processed file: Added item: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:33:26.204259 #15700]  INFO -- : Processed file: Item initialized: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:33:26.208531 #15700]  INFO -- : Processed file: Added item: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:33:26.165616 #15700]  INFO -- : Saved product image: media_dir/products/957bbb79-0299-4b01-8023-641d297a08e3.jpg
+I, [2024-11-10T14:33:26.263670 #15700]  INFO -- : Processed file: Item initialized: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:33:26.272234 #15700]  INFO -- : Processed file: Added item: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:33:26.329143 #15700]  INFO -- : Saved product image: media_dir/products/8296f077-e576-4ea8-a855-fd8238c988f5.jpg
+I, [2024-11-10T14:33:26.330114 #15700]  INFO -- : Saved product image: media_dir/products/289d57af-b4e1-4c48-9b89-45799eb1cec4.jpg
+I, [2024-11-10T14:33:26.378380 #15700]  INFO -- : Saved product image: media_dir/products/6e1e0f2d-b79a-455c-b65f-6315e67f768a.jpg
+I, [2024-11-10T14:33:26.378599 #15700]  INFO -- : Saved product image: media_dir/products/8cd095b5-6f83-48f5-ad52-82c5b61c0ae2.jpg
+I, [2024-11-10T14:33:26.363662 #15700]  INFO -- : Processed file: Item initialized: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:33:26.389136 #15700]  INFO -- : Processed file: Added item: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:33:26.450676 #15700]  INFO -- : Processed file: Item initialized: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:33:26.496415 #15700]  INFO -- : Processed file: Added item: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:33:26.491254 #15700]  INFO -- : Processed file: Item initialized: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:33:26.504303 #15700]  INFO -- : Processed file: Added item: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:33:26.554165 #15700]  INFO -- : Processed file: Item initialized: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:33:26.604694 #15700]  INFO -- : Processed file: Added item: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:33:26.558329 #15700]  INFO -- : Saved product image: media_dir/products/ad422dd7-92fb-492b-9646-0eb19683a971.jpg
+I, [2024-11-10T14:33:26.651565 #15700]  INFO -- : Saved product image: media_dir/products/5de4fbd2-61c8-4cda-bbe3-cde80cd93479.jpg
+I, [2024-11-10T14:33:26.558158 #15700]  INFO -- : Saved product image: media_dir/products/d809c121-b95f-4376-bf76-9b11254bfeda.jpg
+I, [2024-11-10T14:33:26.643512 #15700]  INFO -- : Processed file: Item initialized: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:33:26.794367 #15700]  INFO -- : Processed file: Added item: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:33:26.651839 #15700]  INFO -- : Saved product image: media_dir/products/1884b5fe-9ba6-49dd-adc0-253e93f6d3d0.jpg
+I, [2024-11-10T14:33:26.687558 #15700]  INFO -- : Processed file: Item initialized: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:33:26.836002 #15700]  INFO -- : Processed file: Added item: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:33:26.725611 #15700]  INFO -- : Processed file: Item initialized: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:33:26.914650 #15700]  INFO -- : Processed file: Added item: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:33:26.981600 #15700]  INFO -- : Processed file: Item initialized: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:33:27.018546 #15700]  INFO -- : Processed file: Added item: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:33:27.021614 #15700]  INFO -- : Saved product image: media_dir/products/602eb94c-303f-468d-bd31-240edfa0b9e3.jpg
+I, [2024-11-10T14:33:26.868667 #15700]  INFO -- : Processed file: Item initialized: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:33:27.127041 #15700]  INFO -- : Processed file: Added item: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:33:27.194608 #15700]  INFO -- : Processed file: Item initialized: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:33:27.199902 #15700]  INFO -- : Processed file: Added item: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:33:26.785812 #15700]  INFO -- : Processed file: Item initialized: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:33:27.324412 #15700]  INFO -- : Processed file: Added item: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:33:27.327108 #15700]  INFO -- : Saved product image: media_dir/products/b040427e-831b-488c-9c02-c1add7489d25.jpg
+I, [2024-11-10T14:33:26.983194 #15700]  INFO -- : Saved product image: media_dir/products/52e8acf7-0127-4b5d-aaa6-7e87d58abe23.jpg
+I, [2024-11-10T14:33:27.400821 #15700]  INFO -- : Processed file: Item initialized: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:33:27.440925 #15700]  INFO -- : Processed file: Added item: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:33:26.832827 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:33:27.518200 #15700]  INFO -- : Processed file: Added item: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:33:27.122159 #15700]  INFO -- : Processed file: Item initialized: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:33:27.711961 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:33:27.760612 #15700]  INFO -- : Processed file: Added item: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:33:27.762140 #15700]  INFO -- : Saved product image: media_dir/products/bed79528-a07b-4a2d-8dfd-81cdbb298336.jpg
+I, [2024-11-10T14:33:26.906536 #15700]  INFO -- : Processed file: Item initialized: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:33:27.809908 #15700]  INFO -- : Processed file: Added item: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:33:27.246999 #15700]  INFO -- : Saved product image: media_dir/products/b0f7e1f9-102c-4ea1-8157-401c2e27811e.jpg
+I, [2024-11-10T14:33:27.880210 #15700]  INFO -- : Saved product image: media_dir/products/a16bb72a-9570-41e3-93ac-e61b2de2ddfd.jpg
+I, [2024-11-10T14:33:27.324211 #15700]  INFO -- : Processed file: Item initialized: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:33:27.922379 #15700]  INFO -- : Processed file: Added item: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:33:27.325107 #15700]  INFO -- : Saved product image: media_dir/products/ed77cd58-053b-453e-8f5f-6ad8d20d53b8.jpg
+I, [2024-11-10T14:33:27.327647 #15700]  INFO -- : Saved product image: media_dir/products/0f56dc57-78af-4f97-9184-526aa2da4f93.jpg
+I, [2024-11-10T14:33:27.014340 #15700]  INFO -- : Processed file: Item initialized: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:33:27.961129 #15700]  INFO -- : Processed file: Added item: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:33:27.364406 #15700]  INFO -- : Processed file: Item initialized: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:33:27.961680 #15700]  INFO -- : Processed file: Added item: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:33:27.437458 #15700]  INFO -- : Processed file: Item initialized: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:33:27.962215 #15700]  INFO -- : Processed file: Added item: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:33:27.476947 #15700]  INFO -- : Saved product image: media_dir/products/d42d352e-be0b-4d89-846f-72bdf6c80361.jpg
+I, [2024-11-10T14:33:27.513414 #15700]  INFO -- : Processed file: Item initialized: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:33:28.004524 #15700]  INFO -- : Processed file: Added item: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:33:27.089104 #15700]  INFO -- : Processed file: Item initialized: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:33:28.004856 #15700]  INFO -- : Processed file: Added item: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:33:27.585571 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:28.005143 #15700]  INFO -- : Processed file: Added item: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:33:27.661844 #15700]  INFO -- : Processed file: Item initialized: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:33:28.005844 #15700]  INFO -- : Processed file: Added item: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:33:27.756642 #15700]  INFO -- : Processed file: Item initialized: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:33:28.006509 #15700]  INFO -- : Processed file: Added item: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:33:27.159181 #15700]  INFO -- : Processed file: Item initialized: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:33:28.007246 #15700]  INFO -- : Processed file: Added item: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:33:27.809758 #15700]  INFO -- : Processed file: Item initialized: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:33:28.007914 #15700]  INFO -- : Processed file: Added item: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:33:27.246118 #15700]  INFO -- : Processed file: Item initialized: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:33:28.008795 #15700]  INFO -- : Processed file: Added item: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:33:27.878080 #15700]  INFO -- : Processed file: Item initialized: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:33:28.009757 #15700]  INFO -- : Processed file: Added item: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:33:27.917957 #15700]  INFO -- : Processed file: Item initialized: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:33:28.011188 #15700]  INFO -- : Processed file: Added item: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:33:27.956505 #15700]  INFO -- : Processed file: Item initialized: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:33:28.011415 #15700]  INFO -- : Processed file: Added item: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:33:27.475674 #15700]  INFO -- : Processed file: Item initialized: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:33:28.011941 #15700]  INFO -- : Processed file: Added item: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:33:27.552304 #15700]  INFO -- : Processed file: Item initialized: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:33:28.012645 #15700]  INFO -- : Processed file: Added item: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:33:26.756446 #15700]  INFO -- : Processed file: Item initialized: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:33:28.013274 #15700]  INFO -- : Processed file: Added item: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:33:27.763200 #15700]  INFO -- : Saved product image: media_dir/products/11dc25b9-6dac-459e-bbb3-1802b102c35f.jpg
+I, [2024-11-10T14:33:26.945883 #15700]  INFO -- : Processed file: Item initialized: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:33:28.014783 #15700]  INFO -- : Processed file: Added item: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:33:27.841842 #15700]  INFO -- : Processed file: Item initialized: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:33:28.020551 #15700]  INFO -- : Processed file: Added item: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:33:26.602982 #15700]  INFO -- : Processed file: Item initialized: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:33:28.021535 #15700]  INFO -- : Processed file: Added item: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:33:27.053532 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:33:28.021757 #15700]  INFO -- : Processed file: Added item: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:33:27.760434 #15700]  INFO -- : Processed file: Added item: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:33:27.283221 #15700]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:33:28.022342 #15700]  INFO -- : Processed file: Added item: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:33:28.021443 #15700]  INFO -- : Saved product image: media_dir/products/158d64e5-0d41-4405-9b58-1a45fcca7da5.jpg
+I, [2024-11-10T14:33:28.001021 #15700]  INFO -- : Processed file: Item initialized: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:33:28.030141 #15700]  INFO -- : Processed file: Added item: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:33:26.798627 #15700]  INFO -- : Saved product image: media_dir/products/3085f5d7-09c0-46c7-a694-c4f7c591eb67.jpg
+I, [2024-11-10T14:33:27.625468 #15700]  INFO -- : Processed file: Item initialized: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:33:28.032052 #15700]  INFO -- : Processed file: Added item: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:33:28.070086 #15700]  INFO -- : Saved product image: media_dir/products/a29a53bd-920f-46b8-af2d-cde7288cbf20.jpg
+I, [2024-11-10T14:33:28.180635 #15700]  INFO -- : Saved product image: media_dir/products/1e79e1c8-71ef-43ff-b180-db327236c537.jpg
+I, [2024-11-10T14:33:28.180844 #15700]  INFO -- : Saved product image: media_dir/products/aa127038-19b5-4931-9132-bedc9fd5dcff.jpg
+I, [2024-11-10T14:33:28.290372 #15700]  INFO -- : Saved product image: media_dir/products/685273df-d2e1-4c16-8683-0fcd64fe3314.jpg
+I, [2024-11-10T14:33:28.310027 #15700]  INFO -- : Saved product image: media_dir/products/d3a794a2-02cd-4962-94a1-2072b31b68e7.jpg
+I, [2024-11-10T14:33:28.310163 #15700]  INFO -- : Saved product image: media_dir/products/b79c3029-a00c-4bcc-980c-76872e0ad70a.jpg
+I, [2024-11-10T14:33:28.362444 #15700]  INFO -- : Saved product image: media_dir/products/e93e3263-d800-4fcc-be53-7d74888efa94.jpg
+I, [2024-11-10T14:33:28.403543 #15700]  INFO -- : Saved product image: media_dir/products/c1db6ccb-994e-45c2-8462-46d6b1b89122.jpg
+I, [2024-11-10T14:33:28.419601 #15700]  INFO -- : Saved product image: media_dir/products/dd3d6de0-f962-4aa2-8a81-6393694c5e65.jpg
+I, [2024-11-10T14:33:28.454970 #15700]  INFO -- : Saved product image: media_dir/products/4fe319dc-fbaf-4093-987b-0445a5bf381e.jpg
+I, [2024-11-10T14:33:28.462741 #15700]  INFO -- : Saved product image: media_dir/products/9275f049-a9a1-4d9e-9e83-1e6556c8a01b.jpg
+I, [2024-11-10T14:33:28.471495 #15700]  INFO -- : Saved product image: media_dir/products/97467363-7fa2-42ab-829f-4b2c9ba57878.jpg
+I, [2024-11-10T14:33:28.500534 #15700]  INFO -- : Saved product image: media_dir/products/75a01731-8577-42ba-a522-ae36f692a8e3.jpg
+I, [2024-11-10T14:33:28.538550 #15700]  INFO -- : Saved product image: media_dir/products/934212dc-5436-4650-8fc6-55dfc272546f.jpg
+I, [2024-11-10T14:33:28.538716 #15700]  INFO -- : Saved product image: media_dir/products/06ef4e2e-54b6-419c-87ca-47855348145f.jpg
+I, [2024-11-10T14:33:28.560346 #15700]  INFO -- : Saved product image: media_dir/products/5eaf4f1e-1c6f-4cca-99bf-59e72e02dece.jpg
+I, [2024-11-10T14:33:28.579565 #15700]  INFO -- : Saved product image: media_dir/products/29333a92-434f-4260-9dfc-fe97784da0b3.jpg
+I, [2024-11-10T14:33:28.610591 #15700]  INFO -- : Saved product image: media_dir/products/bc35cd71-f380-46a4-ac49-79b00e231fc9.jpg
+I, [2024-11-10T14:33:28.644489 #15700]  INFO -- : Saved product image: media_dir/products/21e45570-481b-4a92-9021-133116016aa8.jpg
+I, [2024-11-10T14:33:28.644614 #15700]  INFO -- : Saved product image: media_dir/products/dbbe5a00-aa2e-4fd5-948f-565e9244e25b.jpg
+I, [2024-11-10T14:33:28.644815 #15700]  INFO -- : Saved product image: media_dir/products/b0aad533-d0b5-4af6-88f4-80073c397297.jpg
+I, [2024-11-10T14:33:28.679516 #15700]  INFO -- : Saved product image: media_dir/products/5fe7f31d-575d-4ce0-84d4-eceb32e8dd72.jpg
+I, [2024-11-10T14:33:28.679675 #15700]  INFO -- : Saved product image: media_dir/products/60734157-d9cd-4ec3-a518-f61d8eb18aa2.jpg
+I, [2024-11-10T14:33:28.702496 #15700]  INFO -- : Saved product image: media_dir/products/062588bd-087c-4696-afe1-cf299574816d.jpg
+I, [2024-11-10T14:33:28.702676 #15700]  INFO -- : Saved product image: media_dir/products/3a62432c-8804-4514-aff3-03f4c67f81c0.jpg
+I, [2024-11-10T14:33:28.717119 #15700]  INFO -- : Saved product image: media_dir/products/a8f183ea-7450-4953-8efe-e32d67671fdf.jpg
+I, [2024-11-10T14:33:28.758245 #15700]  INFO -- : Saved product image: media_dir/products/8ca6823e-e70b-47a4-aeb0-f0ac71fa0c2c.jpg
+I, [2024-11-10T14:33:28.791425 #15700]  INFO -- : Saved product image: media_dir/products/1bc72f90-f1fb-4763-b800-9532a4cf6db2.jpg
+I, [2024-11-10T14:33:28.791573 #15700]  INFO -- : Saved product image: media_dir/products/a9b33e69-56ae-4639-8510-4af5dffb5ecd.jpg
+I, [2024-11-10T14:33:28.796378 #15700]  INFO -- : Processed file: Saved items to JSON: output/products.json
+I, [2024-11-10T14:36:40.677283 #4592]  INFO -- : Processed file: ItemCollection initialized
+I, [2024-11-10T14:36:41.158202 #4592]  INFO -- : Starting parsing from https://www.yakaboo.ua/ua/knigi/business-money-economy.html
+I, [2024-11-10T14:36:41.474379 #4592]  INFO -- : Found 50 product links to process.
+I, [2024-11-10T14:36:41.941381 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bodo-shefer-komplekt-iz-2-knig.html
+I, [2024-11-10T14:36:41.944571 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-brendona-vebba-komplekt-iz-2-knig.html
+I, [2024-11-10T14:36:41.947137 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/reputacijnij-antistres-instruktor-dlja-vlasnikiv-i-top-menedzheriv-biznesu.html
+I, [2024-11-10T14:36:41.949253 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mistectvo-govoriti-taemnici-efektivnogo-spilkuvannja.html
+I, [2024-11-10T14:36:41.951622 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/priborkati-strah-dosvid-mors-kogo-kotika.html
+I, [2024-11-10T14:36:41.954082 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment.html
+I, [2024-11-10T14:36:41.954386 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/esencializm-mictectvo-viznachati-ppiopiteti.html
+I, [2024-11-10T14:36:41.957770 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/schastja-z-dostavkoju-kljuch-do-pributku-nathnennja-j-meti.html
+I, [2024-11-10T14:36:41.948169 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/anna-biografija.html
+I, [2024-11-10T14:36:42.091594 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-meta-proces-bezperervnogo-vdoskonalennja-nova-obkl-elijagu-goldratt-dzheff-koks.html
+I, [2024-11-10T14:36:42.126560 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-spilkuvatisja-z-psihami.html
+I, [2024-11-10T14:36:42.127629 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/vitrimati-vse-rozum-tilo-ta-navdivovizhu-gnuchki-mezhi-ljuds-koi-vitrivalosti.html
+I, [2024-11-10T14:36:42.127968 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-jdit-na-kompromis-tehnika-efektivnih-peregovoriv.html
+I, [2024-11-10T14:36:42.134690 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zakoni-peremozhciv-jak-zdijsniti-cvoi-mrii.html
+I, [2024-11-10T14:36:42.163988 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mif-dosvidu-chomu-mi-zasvojuemo-hibni-uroki-i-jak-ce-vipraviti.html
+I, [2024-11-10T14:36:42.167567 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-emocijnij-intelekt-komplekt-z-2-knig.html
+I, [2024-11-10T14:36:42.158740 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/marketingovi-vijni.html
+I, [2024-11-10T14:36:42.135252 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pricil-jak-prijmati-kraschi-rishennja-koli-ves-svit-proti-tebe.html
+I, [2024-11-10T14:36:42.187292 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/podumaj-znovu-sila-rozuminnja-vlasnogo-neznannja.html
+I, [2024-11-10T14:36:42.191021 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/instinkt-pereproshivka-dlja-mozku-jaka-pidvischit-vashu-produktivnist.html
+I, [2024-11-10T14:36:42.195598 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/emocijnij-intelekt-u-biznesi-jak-stati-uspishnim-u-zhitti-ta-kar-eri.html
+I, [2024-11-10T14:36:42.214109 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/curly-menedzhment-jak-upravljati-proektami-ne-zradzhujuchi-sebe.html
+I, [2024-11-10T14:36:42.216148 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ekonomika-z-dvoma-iksami-grandioznij-potencial-zhinochoi-nezalezhnosti.html
+I, [2024-11-10T14:36:42.224603 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ofis-buddi-davne-mistectvo-probuddzhennja-cherez-sumlinnu-robotu.html
+I, [2024-11-10T14:36:42.230396 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bezkontrol-ni-scho-treba-znati-pro-biznes-procesi.html
+I, [2024-11-10T14:36:42.241584 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-rozmovljati-bud-z-kim-bud-koli-i-bud-de.html
+I, [2024-11-10T14:36:42.242382 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-1606035.html
+I, [2024-11-10T14:36:42.252034 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pravila-investuvannja-vorrena-baffeta-jak-zberigati-ta-primnozhuvati-kapital.html
+I, [2024-11-10T14:36:42.262056 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rework-cja-kniga-pereverne-vash-pogljad-na-biznes.html
+I, [2024-11-10T14:36:42.267743 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-zdobuvati-druziv-i-vplivati-na-ljudej-3057818.html
+I, [2024-11-10T14:36:42.271269 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zkonomika-jak-pokolinnja-z-zminjue-majbutne-biznesu.html
+I, [2024-11-10T14:36:42.273142 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment-1580096.html
+I, [2024-11-10T14:36:42.280592 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/hucpa-chomu-izrail-stav-svitovim-centrom-innovacij-ta-pidpriemnictva.html
+I, [2024-11-10T14:36:42.290814 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/empatija-v-biznesi-cinnist-spivperezhivannja-jak-dvigun-uspihu.html
+I, [2024-11-10T14:36:42.298575 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-izhte-naodinci-ta-inshi-sekreti-uspihu-zavdjaki-shirokomu.html
+I, [2024-11-10T14:36:42.301998 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psihologija-vplivu-onovleno-ta-dopovneno-2351481.html
+I, [2024-11-10T14:36:42.305328 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ljubov-ta-bjudzhet-domashni-finansi-dlja-simejnih-par-na-shljahu-do-finansovoi-svobodi-onovlene-vidannja.html
+I, [2024-11-10T14:36:42.303330 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bereschak-viktorija-komunikacijna-strategija-v-biznesi-jak-dosjagti-maksimumu-v-spilkuvanni-z-auditorieju.html
+I, [2024-11-10T14:36:42.291802 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psyhologija-vplyvu.html
+I, [2024-11-10T14:36:42.341654 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/48-zakoniv-vladi-1788522.html
+I, [2024-11-10T14:36:42.323171 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ce-marketing.html
+I, [2024-11-10T14:36:42.342703 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-2217783.html
+I, [2024-11-10T14:36:42.341942 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rozumnij-investor-strategija-vartisnogo-investuvannja.html
+I, [2024-11-10T14:36:42.355460 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/peremovini-bez-porazki-garvards-kij-metod.html
+I, [2024-11-10T14:36:42.440154 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/superhabi-jak-finansovi-eliti-ta-ihni-merezhi-kerujut-svitom.html
+I, [2024-11-10T14:36:42.444077 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/antikrihkist-pro-ne-vrazlive-u-real-nomu-zhitti-2254555.html
+I, [2024-11-10T14:36:42.466137 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/sadoterapija-jak-pozbutisja-bur-janiv-u-golovi.html
+I, [2024-11-10T14:36:42.485920 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-majstri-masshtabuvannja-neochevidni-istini-vid-najuspishnishih-pidpriemciv-svitu-rid-gofman-dzhu.html
+I, [2024-11-10T14:36:42.557072 #4592]  INFO -- : Processed file: Item initialized: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:36:42.570653 #4592]  INFO -- : Processed file: Added item: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:36:42.615381 #4592]  INFO -- : Processed file: Item initialized: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:36:42.656150 #4592]  INFO -- : Processed file: Added item: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:36:42.686450 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:36:42.741859 #4592]  INFO -- : Processed file: Added item: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:36:42.735635 #4592]  INFO -- : Processed file: Item initialized: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:36:42.751808 #4592]  INFO -- : Processed file: Added item: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:36:42.745274 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/lean-ux-stvorennja-klasnih-produktiv-iz-komandami-agile.html
+I, [2024-11-10T14:36:42.795907 #4592]  INFO -- : Processed file: Item initialized: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:42.800793 #4592]  INFO -- : Processed file: Added item: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:42.654093 #4592]  INFO -- : Processed file: Item initialized: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:36:42.843915 #4592]  INFO -- : Processed file: Added item: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:36:42.843167 #4592]  INFO -- : Processed file: Item initialized: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:36:42.850734 #4592]  INFO -- : Processed file: Added item: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:36:42.855178 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-ljubomira-ostapiva.html
+I, [2024-11-10T14:36:42.911499 #4592]  INFO -- : Processed file: Item initialized: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:36:42.919561 #4592]  INFO -- : Processed file: Added item: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:36:42.963429 #4592]  INFO -- : Processed file: Item initialized: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:36:42.977257 #4592]  INFO -- : Processed file: Added item: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:36:42.989407 #4592]  INFO -- : Saved product image: media_dir/products/6e37d499-e53f-434b-9d64-c8effa627a83.jpg
+I, [2024-11-10T14:36:43.045616 #4592]  INFO -- : Processed file: Item initialized: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:36:43.052360 #4592]  INFO -- : Processed file: Added item: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:36:43.058513 #4592]  INFO -- : Saved product image: media_dir/products/adb662c2-220c-4b9e-b64e-fe2e978d1f5e.jpg
+I, [2024-11-10T14:36:43.059710 #4592]  INFO -- : Saved product image: media_dir/products/3b05aadb-e8ad-4d49-9757-0e69c7c152ec.jpg
+I, [2024-11-10T14:36:43.060301 #4592]  INFO -- : Saved product image: media_dir/products/203d3320-a8d6-4738-abbf-f074dc24c256.jpg
+I, [2024-11-10T14:36:43.126850 #4592]  INFO -- : Processed file: Item initialized: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:36:43.132979 #4592]  INFO -- : Processed file: Added item: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:36:43.133793 #4592]  INFO -- : Saved product image: media_dir/products/d4c57513-f742-4ead-9c99-cbdd87027a13.jpg
+I, [2024-11-10T14:36:43.212628 #4592]  INFO -- : Saved product image: media_dir/products/449847a4-5425-4207-a8bb-9eca64407442.jpg
+I, [2024-11-10T14:36:43.133879 #4592]  INFO -- : Saved product image: media_dir/products/78caf81d-54e0-4392-98e0-849a4fa1b056.jpg
+I, [2024-11-10T14:36:43.207146 #4592]  INFO -- : Processed file: Item initialized: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:36:43.335808 #4592]  INFO -- : Processed file: Added item: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:36:43.253979 #4592]  INFO -- : Processed file: Item initialized: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:36:43.417540 #4592]  INFO -- : Processed file: Added item: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:36:43.298470 #4592]  INFO -- : Processed file: Item initialized: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:36:43.332306 #4592]  INFO -- : Processed file: Item initialized: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:36:43.488875 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:36:43.492453 #4592]  INFO -- : Processed file: Added item: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:36:43.375365 #4592]  INFO -- : Saved product image: media_dir/products/5c842ba6-393c-4383-8926-4e0f7dac8b96.jpg
+I, [2024-11-10T14:36:43.415947 #4592]  INFO -- : Saved product image: media_dir/products/042af1be-a9f5-4ced-b4e1-c8532d464d02.jpg
+I, [2024-11-10T14:36:43.424404 #4592]  INFO -- : Processed file: Added item: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:36:43.173592 #4592]  INFO -- : Processed file: Item initialized: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:36:43.580149 #4592]  INFO -- : Processed file: Added item: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:36:43.456673 #4592]  INFO -- : Processed file: Item initialized: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:36:43.586408 #4592]  INFO -- : Processed file: Added item: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:36:43.373943 #4592]  INFO -- : Processed file: Item initialized: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:36:43.637607 #4592]  INFO -- : Processed file: Added item: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:36:43.530115 #4592]  INFO -- : Saved product image: media_dir/products/dedffc53-5683-4dd3-a9d2-46f89375880a.jpg
+I, [2024-11-10T14:36:43.733430 #4592]  INFO -- : Saved product image: media_dir/products/b3515d54-7d9a-4430-b75e-ba16e61d8db4.jpg
+I, [2024-11-10T14:36:43.573117 #4592]  INFO -- : Processed file: Item initialized: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:36:43.736808 #4592]  INFO -- : Processed file: Added item: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:36:43.586752 #4592]  INFO -- : Saved product image: media_dir/products/9b2d9572-27a2-4fb5-aeca-9e5c301a482f.jpg
+I, [2024-11-10T14:36:43.415791 #4592]  INFO -- : Processed file: Item initialized: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:36:43.743496 #4592]  INFO -- : Processed file: Added item: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:36:43.528623 #4592]  INFO -- : Processed file: Item initialized: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:36:43.753625 #4592]  INFO -- : Processed file: Added item: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:36:43.729868 #4592]  INFO -- : Processed file: Item initialized: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:36:43.759175 #4592]  INFO -- : Processed file: Added item: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:36:43.637104 #4592]  INFO -- : Processed file: Item initialized: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:36:43.836045 #4592]  INFO -- : Processed file: Added item: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:36:43.874566 #4592]  INFO -- : Saved product image: media_dir/products/1ad09a4a-33fa-4040-9562-2eaf15d3b0f6.jpg
+I, [2024-11-10T14:36:43.790848 #4592]  INFO -- : Processed file: Item initialized: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:36:43.917243 #4592]  INFO -- : Processed file: Added item: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:36:43.828693 #4592]  INFO -- : Processed file: Item initialized: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:36:44.014941 #4592]  INFO -- : Processed file: Added item: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:36:44.091463 #4592]  INFO -- : Processed file: Item initialized: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:36:44.098217 #4592]  INFO -- : Processed file: Added item: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:36:43.906284 #4592]  INFO -- : Processed file: Item initialized: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:36:44.136806 #4592]  INFO -- : Processed file: Added item: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:36:43.490379 #4592]  INFO -- : Processed file: Added item: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:36:44.241458 #4592]  INFO -- : Processed file: Item initialized: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:36:44.248490 #4592]  INFO -- : Processed file: Added item: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:36:44.317331 #4592]  INFO -- : Processed file: Item initialized: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:36:44.361649 #4592]  INFO -- : Processed file: Item initialized: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:36:44.370496 #4592]  INFO -- : Processed file: Added item: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:36:43.689368 #4592]  INFO -- : Processed file: Item initialized: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:36:44.495436 #4592]  INFO -- : Processed file: Added item: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:36:44.098585 #4592]  INFO -- : Saved product image: media_dir/products/22701770-fda6-43f9-8bf1-b9bf1e3a1232.jpg
+I, [2024-11-10T14:36:44.540317 #4592]  INFO -- : Saved product image: media_dir/products/43416d1b-d2eb-4671-8bce-42bb3bc588ab.jpg
+I, [2024-11-10T14:36:44.133806 #4592]  INFO -- : Processed file: Item initialized: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:36:44.611902 #4592]  INFO -- : Processed file: Added item: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:36:44.135528 #4592]  INFO -- : Saved product image: media_dir/products/9409769d-a0c5-4410-a2bb-5c7d190af673.jpg
+I, [2024-11-10T14:36:44.135729 #4592]  INFO -- : Saved product image: media_dir/products/59d852a4-586e-45c6-8d8d-722513bfe0fd.jpg
+I, [2024-11-10T14:36:44.135876 #4592]  INFO -- : Saved product image: media_dir/products/5174ac38-8daa-48fb-a93c-516029486359.jpg
+I, [2024-11-10T14:36:43.950188 #4592]  INFO -- : Processed file: Item initialized: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:36:44.614357 #4592]  INFO -- : Processed file: Added item: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:36:43.982157 #4592]  INFO -- : Processed file: Item initialized: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:36:44.677353 #4592]  INFO -- : Processed file: Added item: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:36:44.014040 #4592]  INFO -- : Processed file: Item initialized: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:36:44.684645 #4592]  INFO -- : Processed file: Added item: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:36:43.868066 #4592]  INFO -- : Processed file: Item initialized: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:36:44.685029 #4592]  INFO -- : Processed file: Added item: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:36:44.368320 #4592]  INFO -- : Saved product image: media_dir/products/76ff9b9e-02e4-4572-a075-1616ae5a50c9.jpg
+I, [2024-11-10T14:36:44.052700 #4592]  INFO -- : Saved product image: media_dir/products/c0675b3f-43b9-4eff-a73f-13d49836a1fc.jpg
+I, [2024-11-10T14:36:44.405611 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:36:44.687460 #4592]  INFO -- : Processed file: Added item: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:36:44.438920 #4592]  INFO -- : Processed file: Item initialized: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:36:44.687770 #4592]  INFO -- : Processed file: Added item: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:36:44.492020 #4592]  INFO -- : Saved product image: media_dir/products/96c698bd-9397-46b4-8497-5d15e4ac0442.jpg
+I, [2024-11-10T14:36:44.495614 #4592]  INFO -- : Saved product image: media_dir/products/d7ccff0c-6a91-420e-bd8e-60b5fad7522f.jpg
+I, [2024-11-10T14:36:44.098054 #4592]  INFO -- : Saved product image: media_dir/products/9d4c151d-e5b7-4065-84f4-a6eaedb97c9c.jpg
+I, [2024-11-10T14:36:44.534259 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:36:44.688455 #4592]  INFO -- : Processed file: Added item: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:36:43.907684 #4592]  INFO -- : Saved product image: media_dir/products/85fd8f1e-f125-49c3-85e2-3931d155267d.jpg
+I, [2024-11-10T14:36:44.576959 #4592]  INFO -- : Processed file: Item initialized: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:36:44.725982 #4592]  INFO -- : Processed file: Added item: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:36:44.607059 #4592]  INFO -- : Processed file: Item initialized: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:36:44.728090 #4592]  INFO -- : Processed file: Added item: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:36:44.172250 #4592]  INFO -- : Processed file: Item initialized: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:36:44.733187 #4592]  INFO -- : Processed file: Added item: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:36:44.734035 #4592]  INFO -- : Saved product image: media_dir/products/e79f371d-5859-4e8a-abc0-c9b066c196bd.jpg
+I, [2024-11-10T14:36:44.677172 #4592]  INFO -- : Processed file: Item initialized: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:36:44.734706 #4592]  INFO -- : Processed file: Added item: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:36:44.367851 #4592]  INFO -- : Processed file: Added item: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:36:44.491880 #4592]  INFO -- : Processed file: Item initialized: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:36:44.735522 #4592]  INFO -- : Processed file: Added item: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:36:44.540992 #4592]  INFO -- : Saved product image: media_dir/products/632930b9-40bf-49ae-ba89-57ee950df3d2.jpg
+I, [2024-11-10T14:36:44.725666 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:36:44.736977 #4592]  INFO -- : Processed file: Added item: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:36:44.612394 #4592]  INFO -- : Saved product image: media_dir/products/d2cb3365-bbc7-4333-979c-3c7c715b738a.jpg
+I, [2024-11-10T14:36:44.209066 #4592]  INFO -- : Processed file: Item initialized: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:36:44.737853 #4592]  INFO -- : Processed file: Added item: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:36:44.052315 #4592]  INFO -- : Processed file: Item initialized: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:36:44.738549 #4592]  INFO -- : Processed file: Added item: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:36:44.494547 #4592]  INFO -- : Saved product image: media_dir/products/039f68be-20db-4f7e-bb29-117671897cd7.jpg
+I, [2024-11-10T14:36:44.282262 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:44.739478 #4592]  INFO -- : Processed file: Added item: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:44.646203 #4592]  INFO -- : Processed file: Item initialized: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:36:44.740108 #4592]  INFO -- : Processed file: Added item: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:36:44.747275 #4592]  INFO -- : Saved product image: media_dir/products/6bc98c10-60a1-423a-9a20-405660f4b509.jpg
+I, [2024-11-10T14:36:44.747418 #4592]  INFO -- : Saved product image: media_dir/products/c426912d-ab89-4563-99ca-a7df8c7083e6.jpg
+I, [2024-11-10T14:36:44.747503 #4592]  INFO -- : Saved product image: media_dir/products/a2e7edbc-5e8b-476b-b365-0052033189bc.jpg
+I, [2024-11-10T14:36:44.856221 #4592]  INFO -- : Saved product image: media_dir/products/ba807e73-476e-4c93-94cc-84a1a0565249.jpg
+I, [2024-11-10T14:36:44.877785 #4592]  INFO -- : Saved product image: media_dir/products/52d38d9d-a38d-4b56-b175-6660850dc960.jpg
+I, [2024-11-10T14:36:44.961001 #4592]  INFO -- : Saved product image: media_dir/products/3d01a596-5ec1-4864-8452-aa569f9c01e8.jpg
+I, [2024-11-10T14:36:44.978560 #4592]  INFO -- : Saved product image: media_dir/products/dd23e5ee-65de-4417-a898-32c7f6a0f798.jpg
+I, [2024-11-10T14:36:44.994395 #4592]  INFO -- : Saved product image: media_dir/products/06cb37c2-ef4e-4345-ab4c-f6c9b4051d0a.jpg
+I, [2024-11-10T14:36:45.015562 #4592]  INFO -- : Saved product image: media_dir/products/fb66eaf8-0cc7-4a92-b392-8be7cfd3baef.jpg
+I, [2024-11-10T14:36:45.026199 #4592]  INFO -- : Saved product image: media_dir/products/23f84af1-b124-40f2-914a-934c809fe0a6.jpg
+I, [2024-11-10T14:36:45.046157 #4592]  INFO -- : Saved product image: media_dir/products/4ceaf013-0c45-42a2-80d6-d0a7b56239b9.jpg
+I, [2024-11-10T14:36:45.046494 #4592]  INFO -- : Saved product image: media_dir/products/29e14355-75e6-4f44-83bb-9134449a7773.jpg
+I, [2024-11-10T14:36:45.046328 #4592]  INFO -- : Saved product image: media_dir/products/f46f1aea-cc4d-449c-b203-d93b2ee1b3e6.jpg
+I, [2024-11-10T14:36:45.059960 #4592]  INFO -- : Saved product image: media_dir/products/b601e627-c1f5-49ac-bafb-c769bc2dcf96.jpg
+I, [2024-11-10T14:36:45.109477 #4592]  INFO -- : Saved product image: media_dir/products/32f61970-d64d-4fc4-a132-427b4f95ada5.jpg
+I, [2024-11-10T14:36:45.109700 #4592]  INFO -- : Saved product image: media_dir/products/ed5cffca-ce74-449a-b937-6608343b0a7e.jpg
+I, [2024-11-10T14:36:45.109878 #4592]  INFO -- : Saved product image: media_dir/products/bd856301-ab8c-4462-9e63-c179a100cebe.jpg
+I, [2024-11-10T14:36:45.124482 #4592]  INFO -- : Saved product image: media_dir/products/dad3a2a6-6b9b-4a5f-b9de-5d169a738345.jpg
+I, [2024-11-10T14:36:45.155975 #4592]  INFO -- : Saved product image: media_dir/products/ba87eb1e-ef80-4366-ad27-1e53e2f88020.jpg
+I, [2024-11-10T14:36:45.156152 #4592]  INFO -- : Saved product image: media_dir/products/f30e7b1b-9595-4bab-b6f4-93720d2f68b5.jpg
+I, [2024-11-10T14:36:45.190221 #4592]  INFO -- : Saved product image: media_dir/products/a33e5048-979f-4c53-ac0b-94638e5a1f9c.jpg
+I, [2024-11-10T14:36:45.315237 #4592]  INFO -- : Saved product image: media_dir/products/a0291f39-1b1d-4cea-a4a2-de312974cae6.jpg
+I, [2024-11-10T14:36:45.317459 #4592]  INFO -- : Processed file: Saved items to JSON: output/products.json
+I, [2024-11-10T14:36:45.320292 #4592]  INFO -- : Processed file: ItemCollection initialized
+I, [2024-11-10T14:36:45.524678 #4592]  INFO -- : Starting parsing from https://www.yakaboo.ua/ua/knigi/business-money-economy.html
+I, [2024-11-10T14:36:45.789517 #4592]  INFO -- : Found 50 product links to process.
+I, [2024-11-10T14:36:46.126728 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/empatija-v-biznesi-cinnist-spivperezhivannja-jak-dvigun-uspihu.html
+I, [2024-11-10T14:36:46.127028 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bereschak-viktorija-komunikacijna-strategija-v-biznesi-jak-dosjagti-maksimumu-v-spilkuvanni-z-auditorieju.html
+I, [2024-11-10T14:36:46.129084 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/hucpa-chomu-izrail-stav-svitovim-centrom-innovacij-ta-pidpriemnictva.html
+I, [2024-11-10T14:36:46.130644 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-2217783.html
+I, [2024-11-10T14:36:46.145143 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ce-marketing.html
+I, [2024-11-10T14:36:46.149836 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/curly-menedzhment-jak-upravljati-proektami-ne-zradzhujuchi-sebe.html
+I, [2024-11-10T14:36:46.152226 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psihologija-vplivu-onovleno-ta-dopovneno-2351481.html
+I, [2024-11-10T14:36:46.153962 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zakoni-peremozhciv-jak-zdijsniti-cvoi-mrii.html
+I, [2024-11-10T14:36:46.155860 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ofis-buddi-davne-mistectvo-probuddzhennja-cherez-sumlinnu-robotu.html
+I, [2024-11-10T14:36:46.158538 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/anna-biografija.html
+I, [2024-11-10T14:36:46.154955 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/antikrihkist-pro-ne-vrazlive-u-real-nomu-zhitti-2254555.html
+I, [2024-11-10T14:36:46.163342 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/emocijnij-intelekt-u-biznesi-jak-stati-uspishnim-u-zhitti-ta-kar-eri.html
+I, [2024-11-10T14:36:46.159088 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/instinkt-pereproshivka-dlja-mozku-jaka-pidvischit-vashu-produktivnist.html
+I, [2024-11-10T14:36:46.166822 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/priborkati-strah-dosvid-mors-kogo-kotika.html
+I, [2024-11-10T14:36:46.156686 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mistectvo-govoriti-taemnici-efektivnogo-spilkuvannja.html
+I, [2024-11-10T14:36:46.165317 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/marketingovi-vijni.html
+I, [2024-11-10T14:36:46.165912 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment.html
+I, [2024-11-10T14:36:46.152677 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/mif-dosvidu-chomu-mi-zasvojuemo-hibni-uroki-i-jak-ce-vipraviti.html
+I, [2024-11-10T14:36:46.179468 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/lean-ux-stvorennja-klasnih-produktiv-iz-komandami-agile.html
+I, [2024-11-10T14:36:46.182015 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/vitrimati-vse-rozum-tilo-ta-navdivovizhu-gnuchki-mezhi-ljuds-koi-vitrivalosti.html
+I, [2024-11-10T14:36:46.190378 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/psyhologija-vplyvu.html
+I, [2024-11-10T14:36:46.347657 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pravila-investuvannja-vorrena-baffeta-jak-zberigati-ta-primnozhuvati-kapital.html
+I, [2024-11-10T14:36:46.360606 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/peremovini-bez-porazki-garvards-kij-metod.html
+I, [2024-11-10T14:36:46.365942 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/reputacijnij-antistres-instruktor-dlja-vlasnikiv-i-top-menedzheriv-biznesu.html
+I, [2024-11-10T14:36:46.366885 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/dumaj-i-bagatij-1606035.html
+I, [2024-11-10T14:36:46.368043 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-ljubomira-ostapiva.html
+I, [2024-11-10T14:36:46.370256 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-rozmovljati-bud-z-kim-bud-koli-i-bud-de.html
+I, [2024-11-10T14:36:46.371298 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/superhabi-jak-finansovi-eliti-ta-ihni-merezhi-kerujut-svitom.html
+I, [2024-11-10T14:36:46.369276 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-spilkuvatisja-z-psihami.html
+I, [2024-11-10T14:36:46.374829 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-knizhok-brendona-vebba-komplekt-iz-2-knig.html
+I, [2024-11-10T14:36:46.378773 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-meta-proces-bezperervnogo-vdoskonalennja-nova-obkl-elijagu-goldratt-dzheff-koks.html
+I, [2024-11-10T14:36:46.380497 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bodo-shefer-komplekt-iz-2-knig.html
+I, [2024-11-10T14:36:46.384331 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/sadoterapija-jak-pozbutisja-bur-janiv-u-golovi.html
+I, [2024-11-10T14:36:46.386258 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ljubov-ta-bjudzhet-domashni-finansi-dlja-simejnih-par-na-shljahu-do-finansovoi-svobodi-onovlene-vidannja.html
+I, [2024-11-10T14:36:46.387765 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/esencializm-mictectvo-viznachati-ppiopiteti.html
+I, [2024-11-10T14:36:46.389602 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/48-zakoniv-vladi-1788522.html
+I, [2024-11-10T14:36:46.391186 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/podumaj-znovu-sila-rozuminnja-vlasnogo-neznannja.html
+I, [2024-11-10T14:36:46.389786 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/pricil-jak-prijmati-kraschi-rishennja-koli-ves-svit-proti-tebe.html
+I, [2024-11-10T14:36:46.386830 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-jdit-na-kompromis-tehnika-efektivnih-peregovoriv.html
+I, [2024-11-10T14:36:46.390574 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/riznobarvnij-menedzhment-1580096.html
+I, [2024-11-10T14:36:46.388534 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/nikoli-ne-izhte-naodinci-ta-inshi-sekreti-uspihu-zavdjaki-shirokomu.html
+I, [2024-11-10T14:36:46.393473 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/bezkontrol-ni-scho-treba-znati-pro-biznes-procesi.html
+I, [2024-11-10T14:36:46.397994 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/ekonomika-z-dvoma-iksami-grandioznij-potencial-zhinochoi-nezalezhnosti.html
+I, [2024-11-10T14:36:46.400238 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/schastja-z-dostavkoju-kljuch-do-pributku-nathnennja-j-meti.html
+I, [2024-11-10T14:36:46.406221 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/kniga-majstri-masshtabuvannja-neochevidni-istini-vid-najuspishnishih-pidpriemciv-svitu-rid-gofman-dzhu.html
+I, [2024-11-10T14:36:46.407112 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/jak-zdobuvati-druziv-i-vplivati-na-ljudej-3057818.html
+I, [2024-11-10T14:36:46.414961 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/komplekt-emocijnij-intelekt-komplekt-z-2-knig.html
+I, [2024-11-10T14:36:46.504537 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/zkonomika-jak-pokolinnja-z-zminjue-majbutne-biznesu.html
+I, [2024-11-10T14:36:46.506684 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rozumnij-investor-strategija-vartisnogo-investuvannja.html
+I, [2024-11-10T14:36:46.506920 #4592]  INFO -- : Parsing product page: https://www.yakaboo.ua/ua/rework-cja-kniga-pereverne-vash-pogljad-na-biznes.html
+I, [2024-11-10T14:36:46.725524 #4592]  INFO -- : Processed file: Item initialized: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:36:46.736950 #4592]  INFO -- : Processed file: Added item: Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+      
+          Книга Офіс Будди. Давнє мистецтво пробуддження через сумлінну роботу
+I, [2024-11-10T14:36:46.841517 #4592]  INFO -- : Processed file: Item initialized: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:36:46.856945 #4592]  INFO -- : Processed file: Added item: Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+      
+          Книга Емпатія в бізнесі. Співпереживання як двигун корпоративного успіху
+I, [2024-11-10T14:36:46.904285 #4592]  INFO -- : Processed file: Item initialized: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:36:46.906742 #4592]  INFO -- : Processed file: Added item: Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+      
+          Книга CURLY менеджмент. Як управляти проєктами, не зраджуючи собі
+I, [2024-11-10T14:36:46.964184 #4592]  INFO -- : Processed file: Item initialized: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:36:46.967395 #4592]  INFO -- : Processed file: Added item: Книга Мистецтво говорити. Таємниці ефективного спілкування
+      
+          Книга Мистецтво говорити. Таємниці ефективного спілкування
+I, [2024-11-10T14:36:47.009485 #4592]  INFO -- : Processed file: Item initialized: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:36:47.016584 #4592]  INFO -- : Processed file: Added item: Книга Приборкати страх. Досвід "морського котика"
+      
+          Книга Приборкати страх. Досвід "морського котика"
+I, [2024-11-10T14:36:47.054138 #4592]  INFO -- : Processed file: Item initialized: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:36:47.057533 #4592]  INFO -- : Processed file: Added item: Книга Це маркетинг
+      
+          Книга Це маркетинг
+I, [2024-11-10T14:36:47.090539 #4592]  INFO -- : Processed file: Item initialized: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:36:47.169408 #4592]  INFO -- : Processed file: Added item: Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+      
+          Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією
+I, [2024-11-10T14:36:47.177838 #4592]  INFO -- : Saved product image: media_dir/products/40c5c450-80f7-4b5c-bf7f-dadf2319f67d.jpg
+I, [2024-11-10T14:36:47.180601 #4592]  INFO -- : Saved product image: media_dir/products/f784ec8d-81f7-464e-af08-5cd193cfd9f0.jpg
+I, [2024-11-10T14:36:47.168827 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:36:47.296128 #4592]  INFO -- : Processed file: Added item: Електронна книга Думай і багатій
+      
+          Електронна книга Думай і багатій
+I, [2024-11-10T14:36:47.226308 #4592]  INFO -- : Processed file: Item initialized: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:36:47.374864 #4592]  INFO -- : Processed file: Added item: Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+      
+          Книга Хуцпа. Чому Ізраїль став світовим центром інновацій та підприємництва
+I, [2024-11-10T14:36:47.253603 #4592]  INFO -- : Processed file: Item initialized: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:36:47.419750 #4592]  INFO -- : Processed file: Added item: Книга Психологiя впливу
+      
+          Книга Психологiя впливу
+I, [2024-11-10T14:36:47.132808 #4592]  INFO -- : Processed file: Item initialized: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:36:47.429238 #4592]  INFO -- : Processed file: Added item: Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+      
+          Книга Інстинкт. Перепрошивка для мозку, яка підвищить вашу продуктивність
+I, [2024-11-10T14:36:47.335302 #4592]  INFO -- : Saved product image: media_dir/products/cfcd55f8-248e-4e88-af0f-6cf36af31249.jpg
+I, [2024-11-10T14:36:47.335473 #4592]  INFO -- : Saved product image: media_dir/products/d9414579-4558-4e9b-b3e2-7cde59c686b7.jpg
+I, [2024-11-10T14:36:47.369848 #4592]  INFO -- : Processed file: Item initialized: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:36:47.443595 #4592]  INFO -- : Processed file: Added item: Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+      
+          Книга Емоційний інтелект у бізнесі. Як стати успішним у житті та кар’єрі
+I, [2024-11-10T14:36:47.414134 #4592]  INFO -- : Processed file: Item initialized: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:47.449882 #4592]  INFO -- : Processed file: Added item: Книга Різнобарвний менеджмент
+      
+          Книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:47.448546 #4592]  INFO -- : Saved product image: media_dir/products/831fd4e6-2333-45c8-a8c8-d3ade85c5c19.jpg
+I, [2024-11-10T14:36:47.329616 #4592]  INFO -- : Processed file: Item initialized: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:36:47.461898 #4592]  INFO -- : Processed file: Added item: Книга Закони переможців. Як здійснити cвої мрії
+      
+          Книга Закони переможців. Як здійснити cвої мрії
+I, [2024-11-10T14:36:47.289178 #4592]  INFO -- : Processed file: Item initialized: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:36:47.466866 #4592]  INFO -- : Processed file: Added item: Книга Антикрихкість. Про (не)вразливе у реальному житті
+      
+          Книга Антикрихкість. Про (не)вразливе у реальному житті
+I, [2024-11-10T14:36:47.508356 #4592]  INFO -- : Processed file: Item initialized: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:36:47.512675 #4592]  INFO -- : Processed file: Added item: Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+      
+          Книга Міф досвіду. Чому ми засвоюємо хибні уроки і як це виправити?
+I, [2024-11-10T14:36:47.520606 #4592]  INFO -- : Saved product image: media_dir/products/44e1f70f-6e49-4eca-827b-bff10664c2b9.jpg
+I, [2024-11-10T14:36:47.562118 #4592]  INFO -- : Processed file: Item initialized: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:36:47.582463 #4592]  INFO -- : Processed file: Added item: Книга Lean UX: Створення класних продуктів із командами Agile
+      
+          Книга Lean UX: Створення класних продуктів із командами Agile
+I, [2024-11-10T14:36:47.621067 #4592]  INFO -- : Saved product image: media_dir/products/e06a4a34-fad1-4947-84dc-123c8bde40f2.jpg
+I, [2024-11-10T14:36:47.620719 #4592]  INFO -- : Processed file: Item initialized: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:36:47.677406 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:36:47.686297 #4592]  INFO -- : Processed file: Added item: Електронна книга Психологія впливу
+      
+          Електронна книга Психологія впливу
+I, [2024-11-10T14:36:47.680819 #4592]  INFO -- : Processed file: Added item: Книга Маркетингові війни 
+      
+          Книга Маркетингові війни
+I, [2024-11-10T14:36:47.693148 #4592]  INFO -- : Saved product image: media_dir/products/5a85a6f9-3922-4fa8-aad1-6a343362d85e.jpg
+I, [2024-11-10T14:36:47.773034 #4592]  INFO -- : Processed file: Item initialized: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:36:47.780852 #4592]  INFO -- : Processed file: Added item: Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості 
+      
+          Книга Витримати все. Розум, тіло та навдивовижу гнучкі межі людської витривалості
+I, [2024-11-10T14:36:47.836418 #4592]  INFO -- : Processed file: Item initialized: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:36:47.903727 #4592]  INFO -- : Processed file: Item initialized: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:36:47.914631 #4592]  INFO -- : Processed file: Added item: Книга Мета. Процес безперервного вдосконалення
+      
+          Книга Мета. Процес безперервного вдосконалення
+I, [2024-11-10T14:36:47.948766 #4592]  INFO -- : Saved product image: media_dir/products/4b281afb-0724-4674-a273-bb4e3a0d9411.jpg
+I, [2024-11-10T14:36:47.950335 #4592]  INFO -- : Saved product image: media_dir/products/d59fa1de-e241-4038-b2bc-3ab4c74fed7d.jpg
+I, [2024-11-10T14:36:47.910751 #4592]  INFO -- : Processed file: Added item: Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+      
+          Книга Правила інвестування Воррена Баффета. Як зберігати та примножувати капітал. Джеремі С. Міллер
+I, [2024-11-10T14:36:47.949960 #4592]  INFO -- : Saved product image: media_dir/products/c4ed117c-3df8-49d4-87cc-0cb5e95796c1.jpg
+I, [2024-11-10T14:36:48.028983 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:36:48.112165 #4592]  INFO -- : Processed file: Item initialized: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:36:48.186701 #4592]  INFO -- : Processed file: Item initialized: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:36:48.220312 #4592]  INFO -- : Processed file: Added item: Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+      
+          Книга Анна. Біографія Анни Вінтур, головної редакторки Vogue
+I, [2024-11-10T14:36:48.288408 #4592]  INFO -- : Processed file: Item initialized: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:36:48.293759 #4592]  INFO -- : Processed file: Added item: Книга Безконтрольні. Що треба знати про бізнес-процеси?
+      
+          Книга Безконтрольні. Що треба знати про бізнес-процеси?
+I, [2024-11-10T14:36:47.995096 #4592]  INFO -- : Processed file: Item initialized: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:36:48.411272 #4592]  INFO -- : Processed file: Item initialized: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:36:48.447671 #4592]  INFO -- : Processed file: Added item: Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+      
+          Книга Як розмовляти будь з ким, будь-коли і будь-де. Секрети успішного спілкування
+I, [2024-11-10T14:36:48.064557 #4592]  INFO -- : Processed file: Item initialized: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:36:48.547910 #4592]  INFO -- : Processed file: Added item: Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+      
+          Книга Репутаційний антистрес. Інструктор для власників і топ-менеджерів бізнесу
+I, [2024-11-10T14:36:48.149848 #4592]  INFO -- : Processed file: Item initialized: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:36:48.656260 #4592]  INFO -- : Processed file: Added item: Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+      
+          Книга Економіка з двома іксами. Грандіозний потенціал жіночої незалежності
+I, [2024-11-10T14:36:48.151800 #4592]  INFO -- : Processed file: Added item: Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+      
+          Книга Комплект книжок Брендона Вебба (комплект із 2 книг)
+I, [2024-11-10T14:36:48.215011 #4592]  INFO -- : Processed file: Item initialized: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:36:48.766030 #4592]  INFO -- : Processed file: Added item: Книга Як здобувати друзів і впливати на людей 
+      
+          Книга Як здобувати друзів і впливати на людей
+I, [2024-11-10T14:36:47.871750 #4592]  INFO -- : Processed file: Item initialized: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:36:48.835997 #4592]  INFO -- : Processed file: Added item: Книга Бодо Шефер (комплект із 2 книг)
+      
+          Книга Бодо Шефер (комплект із 2 книг)
+I, [2024-11-10T14:36:48.255910 #4592]  INFO -- : Processed file: Item initialized: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:36:48.837313 #4592]  INFO -- : Processed file: Added item: Книга Подумай знову. Сила розуміння власного незнання
+      
+          Книга Подумай знову. Сила розуміння власного незнання
+I, [2024-11-10T14:36:48.292449 #4592]  INFO -- : Saved product image: media_dir/products/578de4a2-26ef-4fc9-83d1-6d527f5a0651.jpg
+I, [2024-11-10T14:36:48.294804 #4592]  INFO -- : Saved product image: media_dir/products/82dcf778-7a6f-4c31-9044-21d82084b185.jpg
+I, [2024-11-10T14:36:47.996937 #4592]  INFO -- : Saved product image: media_dir/products/127c677a-7e77-49d5-ae1c-619375c9e85d.jpg
+I, [2024-11-10T14:36:48.331883 #4592]  INFO -- : Processed file: Item initialized: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:36:48.920786 #4592]  INFO -- : Processed file: Added item: Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+      
+          Книга Любов та бюджет. Домашні фінанси для сімейних пар на шляху до фінансової свободи
+I, [2024-11-10T14:36:48.374843 #4592]  INFO -- : Processed file: Item initialized: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:36:48.921214 #4592]  INFO -- : Processed file: Added item: Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+      
+          Книга Ніколи не йдіть на компроміс. Техніка ефективних переговорів
+I, [2024-11-10T14:36:48.921460 #4592]  INFO -- : Saved product image: media_dir/products/e5b0a788-5a25-473e-a4bf-3b33abf52c4d.jpg
+I, [2024-11-10T14:36:48.445408 #4592]  INFO -- : Saved product image: media_dir/products/0a95ce4d-faa7-4efc-81ed-1a94cffdd6e0.jpg
+I, [2024-11-10T14:36:48.445514 #4592]  INFO -- : Saved product image: media_dir/products/d2564cb0-e0f6-4743-af44-4fb6b526b765.jpg
+I, [2024-11-10T14:36:47.950463 #4592]  INFO -- : Saved product image: media_dir/products/e3896792-9a5a-4fc8-baae-924b2860b913.jpg
+I, [2024-11-10T14:36:48.481522 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:36:48.923037 #4592]  INFO -- : Processed file: Added item: Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+      
+          Книга Комплект книжок Любомира Остапіва (комплект із 3 книг)
+I, [2024-11-10T14:36:48.546196 #4592]  INFO -- : Processed file: Item initialized: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:36:48.923217 #4592]  INFO -- : Processed file: Added item: Книга Перемовини без поразки. Гарвардський метод
+      
+          Книга Перемовини без поразки. Гарвардський метод
+I, [2024-11-10T14:36:48.547237 #4592]  INFO -- : Saved product image: media_dir/products/c8a5afbe-0e6a-42e3-8756-fd6d624985ca.jpg
+I, [2024-11-10T14:36:48.580961 #4592]  INFO -- : Processed file: Item initialized: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:36:48.923465 #4592]  INFO -- : Processed file: Added item: Книга Есенціалізм. Мистецтво визначати пріоритети
+      
+          Книга Есенціалізм. Мистецтво визначати пріоритети
+I, [2024-11-10T14:36:48.655512 #4592]  INFO -- : Processed file: Item initialized: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:48.924137 #4592]  INFO -- : Processed file: Added item: Електронна книга Різнобарвний менеджмент
+      
+          Електронна книга Різнобарвний менеджмент
+I, [2024-11-10T14:36:47.950801 #4592]  INFO -- : Saved product image: media_dir/products/6d332c5e-c24d-4e65-9c81-49f2660b8566.jpg
+I, [2024-11-10T14:36:48.690342 #4592]  INFO -- : Processed file: Item initialized: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:36:48.926135 #4592]  INFO -- : Processed file: Added item: Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+      
+          Книга Приціл. Як приймати кращі рішення, коли весь світ проти тебе
+I, [2024-11-10T14:36:48.758000 #4592]  INFO -- : Processed file: Item initialized: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:36:48.929807 #4592]  INFO -- : Processed file: Added item: Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+      
+          Книга Суперхаби. Як фінансові еліти та їхні мережі керують світом
+I, [2024-11-10T14:36:48.798895 #4592]  INFO -- : Processed file: Item initialized: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:36:48.930463 #4592]  INFO -- : Processed file: Added item: Книга Розумний інвестор. Стратегія вартісного інвестування
+      
+          Книга Розумний інвестор. Стратегія вартісного інвестування
+I, [2024-11-10T14:36:47.946844 #4592]  INFO -- : Processed file: Item initialized: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:36:48.931454 #4592]  INFO -- : Processed file: Added item: Книга Комплект Емоційний інтелект (комплект з 2 книг)
+      
+          Книга Комплект Емоційний інтелект (комплект з 2 книг)
+I, [2024-11-10T14:36:48.874644 #4592]  INFO -- : Processed file: Item initialized: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:36:48.932104 #4592]  INFO -- : Processed file: Added item: Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+      
+          Книга Zкономіка. Як покоління Z zмінює майбутнє біzнесу
+I, [2024-11-10T14:36:48.916015 #4592]  INFO -- : Processed file: Item initialized: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:36:48.932433 #4592]  INFO -- : Processed file: Added item: Електронна книга 48 законів влади
+      
+          Електронна книга 48 законів влади
+I, [2024-11-10T14:36:47.997060 #4592]  INFO -- : Saved product image: media_dir/products/57a3aa77-360a-4e7b-a008-88d183a8b0b5.jpg
+I, [2024-11-10T14:36:48.444455 #4592]  INFO -- : Processed file: Item initialized: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:36:48.933555 #4592]  INFO -- : Processed file: Added item: Книга Садотерапія. Як позбутися бур’янів у голові 
+      
+          Книга Садотерапія. Як позбутися бур’янів у голові
+I, [2024-11-10T14:36:48.516856 #4592]  INFO -- : Processed file: Item initialized: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:36:48.934601 #4592]  INFO -- : Processed file: Added item: Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+      
+          Книга Доставка щастя. Шлях до прибутку, задоволення і мрії
+I, [2024-11-10T14:36:48.725607 #4592]  INFO -- : Processed file: Item initialized: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:36:48.935264 #4592]  INFO -- : Processed file: Added item: Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+      
+          Книга Ніколи не їжте наодинці та інші секрети успіху завдяки широкому колу знайомств
+I, [2024-11-10T14:36:48.831590 #4592]  INFO -- : Processed file: Item initialized: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:36:48.935923 #4592]  INFO -- : Processed file: Added item: Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+      
+          Книга Rework. Ця книжка змінить Ваш погляд на бізнес
+I, [2024-11-10T14:36:48.292623 #4592]  INFO -- : Saved product image: media_dir/products/e7206892-448e-40df-aa1d-eaf3806360bf.jpg
+I, [2024-11-10T14:36:48.916160 #4592]  INFO -- : Saved product image: media_dir/products/bff2ecfe-2e86-4c4f-be68-b7c61dacf29b.jpg
+I, [2024-11-10T14:36:48.445062 #4592]  INFO -- : Processed file: Added item: Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+      
+          Книга Майстри масштабування. Неочевидні істини від найуспішніших підприємців світу
+I, [2024-11-10T14:36:47.950642 #4592]  INFO -- : Saved product image: media_dir/products/2b3f7ff8-92d2-4678-9bf9-353d67ab5a31.jpg
+I, [2024-11-10T14:36:48.615209 #4592]  INFO -- : Processed file: Item initialized: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:36:48.937909 #4592]  INFO -- : Processed file: Added item: Книга Як спілкуватися з психами
+      
+          Книга Як спілкуватися з психами
+I, [2024-11-10T14:36:48.831722 #4592]  INFO -- : Saved product image: media_dir/products/cdd05ea8-99e3-4ac7-add4-f8ea7f88a50f.jpg
+I, [2024-11-10T14:36:48.215165 #4592]  INFO -- : Processed file: Added item: Книга Думай і багатій
+      
+          Книга Думай і багатій
+I, [2024-11-10T14:36:48.978789 #4592]  INFO -- : Saved product image: media_dir/products/e7ed50be-34f6-472f-997d-a0af2a9b53b7.jpg
+I, [2024-11-10T14:36:48.993980 #4592]  INFO -- : Saved product image: media_dir/products/29551255-b912-4623-b57f-4efd39730724.jpg
+I, [2024-11-10T14:36:49.050056 #4592]  INFO -- : Saved product image: media_dir/products/3fa947aa-0036-4562-82d9-7a00873420ab.jpg
+I, [2024-11-10T14:36:49.093332 #4592]  INFO -- : Saved product image: media_dir/products/a6e4cb06-07c6-43c7-a2fc-0e9b2db6d775.jpg
+I, [2024-11-10T14:36:49.093574 #4592]  INFO -- : Saved product image: media_dir/products/1927cffb-2066-416d-8a8b-cb315bebf0c7.jpg
+I, [2024-11-10T14:36:49.109641 #4592]  INFO -- : Saved product image: media_dir/products/d2f50a7d-934b-4575-85c9-ddc27ebd0fac.jpg
+I, [2024-11-10T14:36:49.135926 #4592]  INFO -- : Saved product image: media_dir/products/86c10bd4-376e-4884-9ab8-5747837ddbbc.jpg
+I, [2024-11-10T14:36:49.151086 #4592]  INFO -- : Saved product image: media_dir/products/c5e528a8-da34-42d5-bf70-5097e4030351.jpg
+I, [2024-11-10T14:36:49.190984 #4592]  INFO -- : Saved product image: media_dir/products/ef7607b0-102a-4ce8-8c44-42ef204b34f5.jpg
+I, [2024-11-10T14:36:49.217198 #4592]  INFO -- : Saved product image: media_dir/products/116138e0-d4f4-443e-bc07-f8e3b00c05b9.jpg
+I, [2024-11-10T14:36:49.345142 #4592]  INFO -- : Saved product image: media_dir/products/81afacbd-829e-4267-9a5d-4f2b10029335.jpg
+I, [2024-11-10T14:36:49.409108 #4592]  INFO -- : Saved product image: media_dir/products/35d5dad3-d876-453c-9997-33bfc8011927.jpg
+I, [2024-11-10T14:36:49.442973 #4592]  INFO -- : Saved product image: media_dir/products/7c0c020d-c52c-477f-a3c3-b5860f06f740.jpg
+I, [2024-11-10T14:36:49.483672 #4592]  INFO -- : Saved product image: media_dir/products/21e6381c-028e-4ab4-bccd-ffd26666231f.jpg
+I, [2024-11-10T14:36:49.483971 #4592]  INFO -- : Saved product image: media_dir/products/76664008-bbb0-4dac-8723-8e57e25963dc.jpg
+I, [2024-11-10T14:36:49.516844 #4592]  INFO -- : Saved product image: media_dir/products/b9625709-0f09-4ef9-9e8f-e53bc90e0003.jpg
+I, [2024-11-10T14:36:49.534145 #4592]  INFO -- : Saved product image: media_dir/products/79afd750-1831-4e8e-9080-a73570694f55.jpg
+I, [2024-11-10T14:36:49.588233 #4592]  INFO -- : Saved product image: media_dir/products/85e92db8-b669-4c0d-8552-97b5885a7c68.jpg
+I, [2024-11-10T14:36:49.621215 #4592]  INFO -- : Saved product image: media_dir/products/514e7643-5f1e-4467-9255-1427398db046.jpg
+I, [2024-11-10T14:36:49.636884 #4592]  INFO -- : Saved product image: media_dir/products/cfbe435b-15fd-4721-923d-4a3d5aabf2ee.jpg
+I, [2024-11-10T14:36:49.654029 #4592]  INFO -- : Saved product image: media_dir/products/5a9399db-0602-43c3-bf1c-594249ef1211.jpg
+I, [2024-11-10T14:36:49.669582 #4592]  INFO -- : Saved product image: media_dir/products/f91ac3b7-52b2-4c62-8ef7-a9432804cbfd.jpg
+I, [2024-11-10T14:36:49.719368 #4592]  INFO -- : Saved product image: media_dir/products/acd84c0e-1c8e-434a-900a-3dc56c4b805c.jpg
+I, [2024-11-10T14:36:49.719507 #4592]  INFO -- : Saved product image: media_dir/products/cdead79d-7deb-47f3-8062-5d2928094fd6.jpg
+I, [2024-11-10T14:36:49.734904 #4592]  INFO -- : Saved product image: media_dir/products/13f73cc0-8045-4042-bd98-9c1572317b41.jpg
+I, [2024-11-10T14:36:49.737222 #4592]  INFO -- : Processed file: Saved items to JSON: output/products.json
