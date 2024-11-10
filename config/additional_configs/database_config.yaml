@@ -4,3 +4,6 @@ database_config:
     db_file: db/local_database.sqlite
     timeout: 5000  
     pool_size: 5   
+  mongodb:
+    uri: "mongodb://localhost:27017"
+    db_name: "my_database"

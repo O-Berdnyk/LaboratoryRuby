@@ -47,5 +47,13 @@ puts configurator.config
 # Вивід доступних конфігураційних ключів
 puts MyApplicationBerdnyk::Configurator.available_methods
 
-parser = MyApplicationBerdnyk::SimpleWebsiteParser.new(config)
-parser.start_parse
+#parser = MyApplicationBerdnyk::SimpleWebsiteParser.new(config)
+#parser.start_parse
+
+db_connector = MyApplicationBerdnyk::DatabaseConnector.new(config)
+
+# Підключення до бази даних
+db_connector.connect_to_database
+
+# Закриття з'єднання після використання
+db_connector.close_connection
