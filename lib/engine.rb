@@ -105,26 +105,25 @@ module MyApplicationBerdnyk
 
     def run_save_to_sqlite
       begin
-        if @db_connector.db.is_a?(SQLite3::Database)
-          db = @db_connector.db
-
-          # Створення таблиці
+        if @sql_connector.db.is_a?(SQLite3::Database)
+          db = @sql_connector.db
+    
           db.execute <<-SQL
-            CREATE TABLE IF NOT EXISTS items (
+            CREATE TABLE IF NOT EXISTS products (
               id INTEGER PRIMARY KEY,
               name TEXT,
               price TEXT,
               category TEXT,
-              image_path TEXT
+              image_path TEXT,
               description TEXT
             );
           SQL
-
-          # Збереження елементів
-          items.each do |item|
-            db.execute "INSERT INTO items (name,price,category,image_path description) VALUES (?, ?)", 
-            [item.name,item.price,item.category,item.image_path, item.description]
+  
+          @parser.item_collection.items.each do |item|
+            db.execute "INSERT INTO products (name, price, category, image_path, description) VALUES (?, ?, ?, ?, ?)", 
+                       [item.name, item.price, item.category, item.image_path, item.description]
           end
+    
           MyApplicationBerdnyk::LoggerManager.log_processed_file("Data saved to SQLite")
         else
           raise "Not a valid SQLite connection"
@@ -153,17 +152,23 @@ module MyApplicationBerdnyk
       end
     end
 
-
     def archive_results
       zipfile_name = 'results.zip'
       Zip::File.open(zipfile_name, Zip::File::CREATE) do |zipfile|
-        Dir['results/*'].each do |file|
+        # Архівація файлів з першої директорії
+        Dir['media_dir/**/*'].each do |file|
           zipfile.add(file.sub('results/', ''), file)
+        end
+        
+        # Архівація файлів з другої директорії
+        Dir['output/**/*'].each do |file|
+          zipfile.add(file.sub('another_folder/', ''), file)
         end
       end
       @logger.info("Results archived to #{zipfile_name}")
     rescue StandardError => e
       @logger.error("Failed to archive results: #{e.message}")
     end
+
   end
 end

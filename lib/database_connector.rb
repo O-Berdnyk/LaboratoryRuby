@@ -30,10 +30,8 @@ module MyApplicationBerdnyk
         case @config['database_config']['database_type']
         when 'sqlite'
           @db.close
-          puts "SQLite connection closed"
         when 'mongodb'
           # Для MongoDB з'єднання не потребує явного закриття.
-          puts "MongoDB connection closed"
         end
         @db = nil
       else
