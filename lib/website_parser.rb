@@ -19,12 +19,12 @@ module MyApplicationBerdnyk
 
     def start_parse
       if check_url_response(@config['web_scraping']['start_page'])
-        LoggerManager.logger.info("Starting parsing from #{@config['web_scraping']['start_page']}")
+        #LoggerManager.logger.info("Starting parsing from #{@config['web_scraping']['start_page']}")
         page = HTTParty.get(@config['web_scraping']['start_page'])
         parsed_page = Nokogiri::HTML(page.body)
 
         product_links = extract_products_links(parsed_page)
-        LoggerManager.logger.info("Found #{product_links.size} product links to process.")
+        #LoggerManager.logger.info("Found #{product_links.size} product links to process.")
 
         # Використовуємо багатопоточність для парсингу продуктів
         threads = product_links.map do |link|
@@ -35,8 +35,6 @@ module MyApplicationBerdnyk
         
         # Очікуємо завершення всіх потоків
         threads.each(&:wait!)
-
-        @item_collection.save_to_json("output/products.json");
       else
         LoggerManager.logger.error("Unable to access start page: #{@config['web_scraping']['start_page']}")
       end
@@ -55,7 +53,7 @@ module MyApplicationBerdnyk
 
     def parse_product_page(product_link)
       if check_url_response(product_link)
-        LoggerManager.logger.info("Parsing product page: #{product_link}")
+        # LoggerManager.logger.info("Parsing product page: #{product_link}")
         product_page = HTTParty.get(product_link)
         parsed_product = Nokogiri::HTML(product_page.body)
 
@@ -107,7 +105,7 @@ module MyApplicationBerdnyk
         f.write(HTTParty.get(image_url).body)
       end
 
-      LoggerManager.logger.info("Saved product image: #{file_name}")
+      # LoggerManager.logger.info("Saved product image: #{file_name}")
     end
 
     def check_url_response(url)

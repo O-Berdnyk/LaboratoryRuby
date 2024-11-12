@@ -1,3 +1,5 @@
+require 'csv'
+
 module MyApplicationBerdnyk
   class ItemCollection
     attr_accessor :items
@@ -35,11 +37,13 @@ module MyApplicationBerdnyk
     # Зберігає інформацію у форматі YAML
     def save_to_yml(directory)
       FileUtils.mkdir_p(directory) unless Dir.exist?(directory)
-      items.each do |item|
-        File.open("#{directory}/#{item.name}.yml", 'w') do |file|
+      items.each_with_index do |item, index|
+        # Генерація порядкового номера для файлу
+        file_name = "#{index + 1}.yml" # додаємо 1 до індексу, щоб номер починався з 1
+        File.open("#{directory}/#{file_name}", 'w') do |file|
           file.write(item.to_h.to_yaml)
         end
-        MyApplicationBerdnyk::LoggerManager.log_processed_file("Saved item to YAML: #{item.name}.yml")
+        MyApplicationBerdnyk::LoggerManager.log_processed_file("Saved item to YAML: #{file_name}")
       end
     end
 

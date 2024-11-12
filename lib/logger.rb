@@ -16,10 +16,6 @@ module MyApplicationBerdnyk
       def log_processed_file(file_name)
         @logger.info("Processed file: #{file_name}")
       end
-
-      def log_error(error_message)
-        @logger.error("Error: #{error_message}")
-      end
     end
   end
 end
