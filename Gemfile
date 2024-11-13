@@ -5,3 +5,7 @@ gem 'mechanize'
 gem 'faker'
 gem 'sqlite3'
 gem 'mongo'
+gem 'rake'
+gem 'pony'
+
+

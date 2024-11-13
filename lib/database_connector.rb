@@ -43,6 +43,9 @@ module MyApplicationBerdnyk
 
     # Підключення до SQLite
     def connect_to_sqlite
+      puts "DBCONG"
+      puts @config['database_config']
+
       db_file = @config['database_config']['sqlite_database']['db_file']
       timeout = @config['database_config']['sqlite_database']['timeout'] || 5000
       pool_size = @config['database_config']['sqlite_database']['pool_size'] || 5
@@ -62,7 +65,7 @@ module MyApplicationBerdnyk
     # Підключення до MongoDB
     def connect_to_mongodb
       uri = @config['database_config']['mongodb']['uri']
-      db_name = @config['mongodb']['db_name']
+      db_name = @config['database_config']['mongodb']['db_name']
 
       begin
         client = Mongo::Client.new(uri)

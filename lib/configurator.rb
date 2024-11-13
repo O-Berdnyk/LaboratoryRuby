@@ -10,7 +10,7 @@ module MyApplicationBerdnyk
         run_save_to_json: 0,       # Збереження даних в JSON форматі
         run_save_to_yaml: 0,       # Збереження даних в YAML форматі
         run_save_to_sqlite: 0,     # Збереження даних в базі даних SQLite
-        run_save_to_mongodb: 0      # Збереження даних в базі даних MongoDB
+        run_save_to_mongo: 0      # Збереження даних в базі даних MongoDB
       }
     end
 

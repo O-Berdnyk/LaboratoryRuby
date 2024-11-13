@@ -52,9 +52,10 @@ module MyApplicationBerdnyk
 
     def run_methods(config_params)
       config_params.each do |method_name, should_run|
-        if should_run == 1  # Перевірка, чи потрібно запускати метод
+        if should_run == 1
           begin
-            send(method_name)  # Виклик методу
+            puts "Attempting to run method: #{method_name}"
+            send(method_name)  # Ensure that method_name is correct
             @logger.info("Executed method: #{method_name}")
           rescue NoMethodError
             @logger.error("Method not found: #{method_name}")
@@ -103,6 +104,28 @@ module MyApplicationBerdnyk
       @logger.info("Data saved to YAML")
     end
 
+    def save_items_to_mongo
+  # Перевіряємо, чи є колекція "products". Якщо немає, створюємо її
+  @db_connector.db.create_collection(:products) unless @db_connector.db.collection(:products)
+
+  # Додаємо кожен елемент з item_collection в MongoDB
+  @parser.item_collection.items.each do |item|
+    # Створюємо хеш для кожного елемента
+    item_data = {
+      name: item.name,
+      price: item.price,
+      category: item.category,
+      image_path: item.image_path,
+      description: item.description
+    }
+    
+    # Вставляємо кожен елемент в колекцію products
+    @db_connector.db[:products].insert_one(item_data)
+  end
+end
+
+
+
     def run_save_to_sqlite
       begin
         if @sql_connector.db.is_a?(SQLite3::Database)
@@ -134,41 +157,39 @@ module MyApplicationBerdnyk
     end
 
     # Метод для збереження даних в MongoDB
-    def run_save_to_mongodb
-      begin
-        if @db_connector.db.is_a?(Mongo::Collection)
-          collection = @db_connector.db['items']
-
-          # Збереження елементів
-          items.each do |item|
-            collection.insert_one(name: item.name, description: item.description)
-          end
-          MyApplicationBerdnyk::LoggerManager.log_processed_file("Data saved to MongoDB")
-        else
-          raise "Not a valid MongoDB connection"
-        end
-      rescue Mongo::Error => e
-        MyApplicationBerdnyk::LoggerManager.log_processed_file("Error saving data to MongoDB: #{e.message}")
-      end
-    end
-
+    
     def archive_results
       zipfile_name = 'results.zip'
+    
+      # Перевірка, чи не порожні директорії
+      media_files = Dir['media_dir/**/*'].select { |file| File.file?(file) }
+      output_files = Dir['output/**/*'].select { |file| File.file?(file) }
+    
+      if media_files.empty? && output_files.empty?
+        @logger.info("No files to archive in media_dir and output directories.")
+        return
+      end
+    
+      # Створення zip-архіву
       Zip::File.open(zipfile_name, Zip::File::CREATE) do |zipfile|
-        # Архівація файлів з першої директорії
-        Dir['media_dir/**/*'].each do |file|
-          zipfile.add(file.sub('results/', ''), file)
+        # Додавання файлів з `media_dir`
+        media_files.each do |file|
+          entry_name = file.sub('media_dir/', '')  # Створення відносного шляху в архіві
+          zipfile.add(entry_name, file) unless zipfile.find_entry(entry_name)
         end
-        
-        # Архівація файлів з другої директорії
-        Dir['output/**/*'].each do |file|
-          zipfile.add(file.sub('another_folder/', ''), file)
+    
+        # Додавання файлів з `output`
+        output_files.each do |file|
+          entry_name = file.sub('output/', '')  # Створення відносного шляху в архіві
+          zipfile.add(entry_name, file) unless zipfile.find_entry(entry_name)
         end
       end
+    
       @logger.info("Results archived to #{zipfile_name}")
     rescue StandardError => e
       @logger.error("Failed to archive results: #{e.message}")
     end
+    
 
   end
 end
